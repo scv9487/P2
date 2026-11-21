@@ -1,0 +1,7 @@
+{
+  "name": "P2.Foundation.EditModeTests",
+  "references": ["P2.Foundation", "Unity.ugui"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

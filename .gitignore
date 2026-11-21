@@ -102,6 +102,10 @@ node_modules*
 Assets/Test/
 Assets/Test.meta
 Assets/Tests*
+# Keep P2 foundation regression tests and their Unity metadata.
+!/Assets/Tests/
+!/Assets/Tests/**
+!/Assets/Tests.meta
 *.slnx
 
 # Local logs and crash dumps

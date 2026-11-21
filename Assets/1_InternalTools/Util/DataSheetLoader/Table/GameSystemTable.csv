@@ -1,0 +1,4 @@
+Key,Value,Description
+GAMESYSTEM_Foundation_CounterStep,1,한 번의 증가 또는 감소 요청에 반영할 값
+GAMESYSTEM_Foundation_CounterLimit,999999,숫자의 허용 절댓값 상한
+GAMESYSTEM_Foundation_LabelMaxLength,32,공백 제거 후 이름의 최대 문자 수

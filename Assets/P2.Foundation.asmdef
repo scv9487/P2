@@ -1,0 +1,6 @@
+{
+  "name": "P2.Foundation",
+  "rootNamespace": "Refactor",
+  "references": ["Unity.ugui"],
+  "autoReferenced": true
+}

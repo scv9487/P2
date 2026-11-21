@@ -1,0 +1,6 @@
+{
+  "name": "P2.Foundation.PlayModeTests",
+  "references": ["P2.Foundation", "Unity.ugui"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}
