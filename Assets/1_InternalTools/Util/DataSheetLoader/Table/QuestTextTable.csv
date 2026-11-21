@@ -1,0 +1,40 @@
+Key,Value
+board.title,길드 의뢰
+board.active_format,진행 중인 의뢰  ·  {0}
+board.no_active,진행 중인 의뢰가 없습니다. 한 번에 하나의 의뢰를 수주할 수 있습니다.
+board.choose,의뢰 카드를 선택하세요
+board.kind_clear_dungeon,던전 공략
+board.kind_deliver_items,물품 납부
+board.kind_rescue_adventurers,모험가 구조
+board.kind_kill_monster,몬스터 처치
+board.state_available,수주 가능
+board.state_active,진행 중
+board.state_reportable,보고 가능
+board.state_completed,완료
+board.state_other_active,다른 의뢰 진행 중
+board.card_progress_format,진척  {0:N0} / {1:N0}
+board.progress_format,목표 달성  {0:N0} / {1:N0}
+board.reward_format,완료 보상  {0:N0} G
+board.delivery_format,{0} {1:N0}개 납부 · 현재 보유 {2:N0}개
+board.delivery_notice,보고할 때 납부 물품이 소지품에서 차감됩니다.
+board.accept,수주하기
+board.complete,완료 보고
+board.deliver_complete,납부하고 보고
+board.close,닫기
+board.choose_hint,의뢰를 선택하면 목표와 보상을 확인할 수 있습니다.
+board.accept_hint,수주한 뒤 달성한 탐험 목표가 진척으로 기록됩니다.
+board.delivery_hint_format,탐험 정산에서 {0}을(를) 구매해 소지품으로 보관한 뒤 납부하세요. 현재 보유한 물품도 납부할 수 있습니다.
+board.progress_hint,목표를 달성한 뒤 길드에서 완료를 보고해 주세요.
+board.report_hint,목표를 달성했습니다. 완료를 보고하면 보상을 받고 의뢰를 마칩니다.
+board.completed_hint,이미 완료한 의뢰입니다. 이 의뢰는 다시 수주할 수 없습니다.
+status.load_failed,저장 데이터를 불러올 수 없어 의뢰를 변경할 수 없습니다. 원본은 보존됩니다.
+status.save_failed,의뢰 변경을 저장하지 못했습니다. 다시 시도해 주세요.
+status.progress_save_failed,의뢰 진척을 저장하지 못했습니다. 닫기를 눌러 다시 시도해 주세요.
+status.invalid_request,선택한 의뢰를 다시 확인해 주세요.
+status.already_active,진행 중인 의뢰를 완료한 뒤 다른 의뢰를 수주할 수 있습니다.
+status.already_completed,이미 완료한 의뢰입니다.
+status.not_ready,아직 의뢰 목표를 달성하지 못했습니다.
+status.accepted_format,{0} 의뢰를 수주했습니다.
+status.completed_format,{0} 의뢰 완료 · 보상 {1:N0} G를 받았습니다.
+rescue.success_title,모험가들을 구했다
+rescue.success_body,회색 쥐를 물리치고 모험가들의 퇴로를 확보했다. 길드에 돌아가 구조 의뢰를 보고하자.

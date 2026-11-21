@@ -1,0 +1,36 @@
+Key,Value
+shop.title,상점
+shop.description,내 물품을 선택하면 판매하고 상인의 물품을 선택하면 구매합니다.
+shop.player_inventory,내 소지품 · 판매
+shop.merchant_inventory,상인 재고 · 구매
+shop.player_empty,판매할 물품이 없습니다.
+shop.merchant_empty,상인이 보유한 물품이 없습니다.
+shop.gold_format,보유 금화  {0:N0} G
+shop.row_quantity_format,수량  {0:N0}개
+shop.unit_price_format,정가  {0:N0} G
+shop.quantity_format,{0:N0}개
+shop.total_format,거래 금액  {0:N0} G
+shop.choose_item,거래할 물품을 선택하세요
+shop.selected_buy_format,{0} · 구매
+shop.selected_sell_format,{0} · 판매
+shop.available_buy_format,상인 재고  {0:N0}개
+shop.available_sell_format,내 보유량  {0:N0}개
+shop.buy_balance_format,보유 {0:N0} G  −  구매 {1:N0} G  =  잔액 {2:N0} G
+shop.sell_balance_format,보유 {0:N0} G  +  판매 {1:N0} G  =  잔액 {2:N0} G
+shop.insufficient_format,금화가 {0:N0} G 부족합니다. 구매 수량을 줄여 주세요.
+shop.choose_hint,양쪽 목록에서 물품을 선택한 다음 거래 수량을 조절하세요.
+shop.ready,확정하면 금화와 물품을 교환하고 즉시 저장합니다.
+shop.decrease,−
+shop.increase,+
+shop.confirm,거래 확정
+shop.confirm_buy,구매 확정
+shop.confirm_sell,판매 확정
+shop.close,닫기
+status.load_failed,저장 데이터를 불러올 수 없어 거래할 수 없습니다. 원본은 보존됩니다.
+status.save_failed,거래를 저장하지 못했습니다. 다시 시도해 주세요.
+status.invalid_selection,거래할 물품과 수량을 다시 선택해 주세요.
+status.insufficient_gold,금화가 부족합니다. 구매 수량을 줄여 주세요.
+status.no_stock,선택한 물품의 상인 재고가 없습니다.
+status.not_owned,선택한 물품을 보유하고 있지 않습니다.
+status.buy_success_format,{0} {1:N0}개를 구매했습니다.
+status.sell_success_format,{0} {1:N0}개를 판매했습니다.

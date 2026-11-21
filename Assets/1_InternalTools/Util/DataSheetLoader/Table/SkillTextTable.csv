@@ -1,0 +1,73 @@
+Key,Value
+menu.inventory,가방
+menu.skills,스킬
+menu.close,닫기
+bag.title,모험가의 가방
+bag.owner_format,{0}의 소지품
+bag.gold_format,보유 금화  {0:N0} G
+bag.items,보관 중인 물품
+bag.quantity_format,{0:N0}개
+bag.price_format,정가  {0:N0} G
+bag.empty,아직 보관 중인 물품이 없습니다.
+bag.note,탐험 정산에서 구매하거나 상점에서 구입한 물품을 보관합니다.
+skill.title,모험가의 기술
+skill.active_tree_format,{0} · 직업 스킬
+skill.passives,패시브 스킬
+skill.points_format,직업 SP  {0:N0}   /   패시브 SP  {1:N0}
+skill.choose,스킬을 선택하세요
+skill.choose_hint,목록에서 스킬을 선택하면 효과와 습득 조건을 확인할 수 있습니다.
+skill.learn,습득하기
+skill.learned,습득 완료
+skill.available,습득 가능
+skill.required_level_format,요구 레벨  {0:N0}
+skill.main_cost_format,직업 SP  {0:N0}
+skill.sub_cost_format,패시브 SP  {0:N0}
+skill.prerequisite_format,선행 스킬  {0}
+skill.prerequisite_none,선행 스킬 없음
+skill.target_format,대상  {0}
+skill.cooldown_format,기본 재사용 대기  {0:0.##}초
+skill.energy_format,기본 소모 에너지  {0:0.##}
+skill.list_level_format,Lv. {0:N0} 이상
+skill.learned_hint,이미 습득한 스킬입니다.
+skill.active_empty,이 직업의 액티브 스킬이 없습니다.
+skill.passive_empty,습득할 수 있는 패시브 스킬이 없습니다.
+skill.state_level,레벨 부족
+skill.state_prerequisite,선행 스킬 미습득
+skill.state_points,SP 부족
+skill.state_wrong_tree,다른 직업 스킬
+skill.target_none,대상 없음
+skill.target_single_enemy,적 한 명
+skill.target_self,자신
+skill.target_single_ally,아군 한 명
+skill.target_all_enemies,모든 적
+skill.target_all_allies,모든 아군
+skill.target_all_units,전원
+profile.class_format,직업  {0}
+profile.weapon_format,무기  {0}
+profile.points_format,직업 SP {0:N0} · 패시브 SP {1:N0}
+profile.learned_skills,배운 스킬
+profile.learned_empty,아직 배운 스킬이 없습니다.
+profile.skill_separator, · 
+battle.use,사용
+battle.cancel,선택 취소
+battle.no_skills,배운 액티브 스킬이 없습니다.
+battle.energy_format,에너지 {0:0.#} / {1:0.#}
+battle.skill_cost_format,에너지 {0:0.#}
+battle.cooldown_format,대기 {0:0.#}초
+battle.global_cooldown_format,공통 대기 {0:0.#}초
+battle.stun_format,기절 {0:0.#}초
+battle.barrier_format,보호막 {0:0.#}
+battle.select_target_format,{0} · {1} 카드를 선택하세요.
+battle.confirm_self_format,{0} · 자신에게 사용합니다. 사용 버튼으로 확정하세요.
+battle.confirm_group_format,{0} · {1}에게 사용합니다. 사용 버튼으로 확정하세요.
+battle.used_format,{0} · {1} 사용
+status.load_failed,저장 데이터를 불러올 수 없어 스킬을 습득할 수 없습니다. 원본은 보존됩니다.
+status.save_failed,스킬 습득을 저장하지 못했습니다. 다시 시도해 주세요.
+status.learned_format,{0}을(를) 습득했습니다.
+status.already_learned,이미 습득한 스킬입니다.
+status.wrong_tree,현재 직업에서 습득할 수 없는 스킬입니다.
+status.level_required,스킬을 배우는 데 필요한 레벨이 부족합니다.
+status.prerequisite_required,선행 스킬을 먼저 습득해야 합니다.
+status.insufficient_points,스킬을 배우는 데 필요한 SP가 부족합니다.
+status.invalid_skill,선택한 스킬을 다시 확인해 주세요.
+status.player_only,플레이어의 스킬만 직접 선택하여 습득할 수 있습니다.

@@ -1,0 +1,10 @@
+Id,Name,BasicSkillId
+Equipment_Sword,검,SKILL_BasicSwordAttack
+Equipment_Greatsword,대검,SKILL_BasicGreatswordAttack
+Equipment_Blunt,둔기,SKILL_BasicClubAttack
+Equipment_Bow,활,SKILL_BasicBowAttack
+Equipment_FireStaff,화염 지팡이,SKILL_BasicMagicMissile
+Equipment_WaterStaff,물 지팡이,SKILL_BasicMagicMissile
+Equipment_NatureStaff,자연 지팡이,SKILL_BasicMagicMissile
+Equipment_Shield,방패,SKILL_BasicPunchAttack
+Equipment_Spear,창,SKILL_BasicSpearAttack

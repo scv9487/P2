@@ -1,0 +1,10 @@
+Id,Name,ActiveTreeId,WeaponId
+Sword,검사,Sword,Equipment_Sword
+Greatsword,대검사,Greatsword,Equipment_Greatsword
+Blunt,둔기 전사,Blunt,Equipment_Blunt
+Bow,궁수,Bow,Equipment_Bow
+FireMagic,화염술사,FireMagic,Equipment_FireStaff
+WaterMagic,물술사,WaterMagic,Equipment_WaterStaff
+NatureMagic,자연술사,NatureMagic,Equipment_NatureStaff
+Shield,방패 전사,Shield,Equipment_Shield
+Spear,창술사,Spear,Equipment_Spear

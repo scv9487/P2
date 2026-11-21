@@ -1,0 +1,3 @@
+Id,Name,MaxHp,Attack,Speed,PortraitIndex,IsPlayer
+hero,모험가,96,16,0.65,2,1
+mira,미라,76,12,0.75,0,0

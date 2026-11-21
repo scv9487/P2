@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff2135f9011ab47419f5de93e9e8ace7, type: 3}
+  m_Name: TownContent
+  m_EditorClassIdentifier: 
+  Locations: {fileID: 4900000, guid: 1e1b3e90ecf6f444e902b075ffb854ee, type: 3}
+  Commands: {fileID: 4900000, guid: 57469d3a1e9cc124c8ad675260195cd4, type: 3}
+  Characters: {fileID: 4900000, guid: dd150787463cb8e4da8b6900593b378d, type: 3}
+  Texts: {fileID: 4900000, guid: 95a9617bd275a87469af6804c3ef82ba, type: 3}
+  TownBackground: {fileID: 21300000, guid: e32fdedf4e546e94ab6b5666be1d7dca, type: 3}
+  LocationBackgrounds:
+  - {fileID: 6132706867374971017, guid: 1dcb56eba2bb59e4e9da91f391609525, type: 3}
+  - {fileID: -3822251270544578552, guid: 1dcb56eba2bb59e4e9da91f391609525, type: 3}
+  - {fileID: -4822821460418053650, guid: 1dcb56eba2bb59e4e9da91f391609525, type: 3}
+  - {fileID: 8180287266412095819, guid: 1dcb56eba2bb59e4e9da91f391609525, type: 3}
+  Portraits:
+  - {fileID: -9180426125723624345, guid: 4417121cf0ea1cc4c99ac70176299468, type: 3}
+  - {fileID: -7200388489344414348, guid: 4417121cf0ea1cc4c99ac70176299468, type: 3}
+  - {fileID: -6013459150365757729, guid: 4417121cf0ea1cc4c99ac70176299468, type: 3}
+  - {fileID: -1574949385015627090, guid: 4417121cf0ea1cc4c99ac70176299468, type: 3}

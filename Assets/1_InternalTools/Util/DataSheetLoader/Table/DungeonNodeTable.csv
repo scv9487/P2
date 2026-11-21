@@ -1,0 +1,18 @@
+Floor,Id,Type,Name,Description,X,Y,NeighborIds,CharacterId
+1,camp,Rest,입구의 쉼터,밖의 빛이 닿는 작은 쉼터다. 잠시 쉬며 다음 길을 살필 수 있다.,0.10,0.50,guard;visitor,
+1,guard,Battle,흩어진 상자,상자 뒤에서 회색 쥐들이 달려 나온다.,0.30,0.77,camp;cache,
+1,visitor,Character,머무는 모험가,길을 살피던 모험가가 먼저 손을 들어 인사한다.,0.30,0.23,camp;cache,sera
+1,cache,Event,작은 보급품,벽 아래에 남겨진 붕대와 깨끗한 물을 발견했다.,0.55,0.50,guard;visitor;passage,
+1,passage,Battle,막힌 통로,통로를 차지한 회색 쥐 무리가 물러서지 않는다.,0.75,0.50,cache;stairs,
+1,stairs,Stairs,아래로 난 계단,먼지가 쌓인 계단이 다음 층으로 이어진다.,0.93,0.50,passage,
+2,camp,Rest,마른 벽난로,바람이 들지 않는 구석에서 잠시 숨을 고를 수 있다.,0.10,0.50,guard;visitor,
+2,guard,Battle,어두운 갈림길,어둠 속에서 회색 쥐들의 눈이 번뜩인다.,0.30,0.77,camp;cache,
+2,visitor,Character,기록하는 모험가,벽의 흔적을 적어 두던 모험가가 고개를 든다.,0.30,0.23,camp;cache,orin
+2,cache,Event,덮인 상자,먼지를 털어 낸 상자 안에서 쓸 만한 보급품을 찾았다.,0.55,0.50,guard;visitor;passage,
+2,passage,Battle,낮은 천장,좁아진 길 위로 회색 쥐들이 몰려든다.,0.75,0.50,cache;stairs,
+2,stairs,Stairs,깊은 계단,차가운 공기가 마지막 층에서 올라온다.,0.93,0.50,passage,
+3,camp,Rest,마지막 쉼터,안쪽으로 향하기 전 잠시 몸을 추스를 곳이다.,0.10,0.50,guard;visitor,
+3,guard,Battle,부서진 문,부서진 문틈을 지키던 회색 쥐들이 다가온다.,0.32,0.77,camp;cache,
+3,visitor,Character,돌아가는 모험가,앞서 길을 살피고 돌아오던 모험가와 마주쳤다.,0.32,0.23,camp;cache,sera
+3,cache,Event,마지막 보급품,닫힌 선반 안에서 아직 쓸 수 있는 보급품을 발견했다.,0.60,0.50,guard;visitor;boss,
+3,boss,Boss,회색 쥐의 둥지,큰 회색 쥐가 둥지 앞에서 낮게 울며 길을 가로막는다.,0.90,0.50,cache,

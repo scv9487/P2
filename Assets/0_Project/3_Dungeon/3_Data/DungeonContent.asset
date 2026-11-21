@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 589e41110b0b538459bd397df767ba8c, type: 3}
+  m_Name: DungeonContent
+  m_EditorClassIdentifier: 
+  Dungeons: {fileID: 4900000, guid: a693195ab261fed49bb5d6f1174c736c, type: 3}
+  Nodes: {fileID: 4900000, guid: 591130092602af64c945882a3d1b70b4, type: 3}
+  Party: {fileID: 4900000, guid: e15113d62251ae8419547a46bb9ea998, type: 3}
+  Settings: {fileID: 4900000, guid: 75a102273285f0a479189b710a447709, type: 3}
+  Texts: {fileID: 4900000, guid: b40b33d59cb4ceb4cb92015ca2fb5284, type: 3}
+  Town: {fileID: 11400000, guid: a6b4e54ba252c91408c896370b182650, type: 2}
+  Loot: {fileID: 11400000, guid: 64532138742841799b436072cb158c14, type: 2}
+  Shop: {fileID: 11400000, guid: bea78fdac8fd40e1b9cd9a4ba3413650, type: 2}
+  Characters: {fileID: 11400000, guid: 6b2d1caffcb146cfa323e2aca751dd84, type: 2}
+  Quests: {fileID: 11400000, guid: b1eae4aac75241f4ac33867789da4d3f, type: 2}
+  Skills: {fileID: 11400000, guid: bd62787729714a96942dbf48f4c91196, type: 2}
+  Equipment: {fileID: 11400000, guid: a1c480d5ab6d4545a3d1c4395871286d, type: 2}
+  Background: {fileID: 8180287266412095819, guid: 1dcb56eba2bb59e4e9da91f391609525, type: 3}

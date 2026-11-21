@@ -1,0 +1,22 @@
+Stat,Name,DefaultValue,NonPlayerDefaultValue,Strength,Constitution,WillPower,Intelligence,Agility,Perception
+MaxHealth,최대 생명력,205,-1,0,9,0,0,0,0
+PhysicalAttackPower,물리 공격력,13.5,-1,1,0,0,0,0.5,0.5
+MagicAttackPower,마법 공격력,13.5,-1,0,0,0.4,1.2,0,0.4
+AttackSpeed,공격 속도,0.4,-1,0,0,0,0,0.01,0
+CriticalChance,치명타 확률,8,-1,0,0,0,0,0,0.3
+CriticalDamageBonus,치명타 피해 증가,50,50,0,0,0,0,0,0
+CooldownReduction,재사용 대기시간 감소,0,0,0,0,0.3,0,0,0
+HitChance,명중률,100,100,0,0,0,0,0,0
+DodgeChance,회피율,10,10,0,0,0,0,0,0
+GuardChance,방어 확률,0,0,0,0,0,0,0,0
+GuardDamageReduction,방어 피해 감소,50,50,0,0,0,0,0,0
+LifeSteal,흡혈,0,0,0,0,0,0,0,0
+PhysicalResistance,물리 저항,0,-1,0,0.3,0,0,0,0
+MagicResistance,마법 저항,0,-1,0,0,0,0.3,0,0
+DamageDealtBonus,주는 피해 증가,0,0,0,0,0,0,0,0
+DamageTakenBonus,받는 피해 증가,0,0,0,0,0,0,0,0
+PhysicalDamageDealtBonus,물리 피해 증가,0,0,0,0,0,0,0,0
+MagicDamageDealtBonus,마법 피해 증가,0,0,0,0,0,0,0,0
+FinalDamageMultiplier,최종 피해 배율,1,1,0,0,0,0,0,0
+MovementSpeed,이동 속도,80,-1,0,0,0,0,0.2,0
+ExpGainedBonus,경험치 획득 증가,0,0,0,0,0,0,0,0

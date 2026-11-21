@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd92378749104a84a7ecdbe0dfc406e7, type: 3}
+  m_Name: CharacterContent
+  m_EditorClassIdentifier: 
+  Characters: {fileID: 4900000, guid: fe55513df27c4e6b957632b54bebb0c0, type: 3}
+  Settings: {fileID: 4900000, guid: aa1434a2c58b44a38bf08e067960c5e0, type: 3}
+  Texts: {fileID: 4900000, guid: d4327fbcc2da433dbb13fefdceea0d26, type: 3}
+  Growth: {fileID: 4900000, guid: bf194e41911a4c0c968e9ad5d383d7d9, type: 3}
+  Levels: {fileID: 4900000, guid: 719e30e5a5444b048783e9364edd84b2, type: 3}
+  GrowthSettings: {fileID: 4900000, guid: 9b1bc9ba82aa4ceabb1016132b3f383f, type: 3}
+  CombatStats: {fileID: 4900000, guid: 5dd580887afe4a6c930ec909248ad112, type: 3}
+  CombatEnemies: {fileID: 4900000, guid: b658267d326f45dbaad6bab466e813f3, type: 3}
+  CombatAttacks: {fileID: 4900000, guid: 66630662a37a4379b06423120d1474c7, type: 3}

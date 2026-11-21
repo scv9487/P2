@@ -1,0 +1,20 @@
+Key,Value
+title.name,P2
+title.tagline,모험가의 삶은 만남으로 이어진다.
+title.start,마을로
+title.quit,게임 종료
+title.footer,"모험가의 삶, 그리고 마주치는 인연들"
+town.name,마을
+town.subtitle,다음 여정이 시작되는 곳
+town.description,낯선 모험가들과 길을 나누고 잠시 머물 곳을 찾아보세요.
+town.choose,어디로 향할까요?
+town.return_title,타이틀로
+location.visitors,이곳에 머무는 모험가
+location.commands,장소에서 할 일
+location.close,마을로 돌아가기
+panel.close,닫기
+dialogue.title,대화
+dialogue.reply,이야기를 듣는다.
+empty.visitors,지금은 머무는 모험가가 없습니다.
+status.loading,이동 중…
+status.failed,씬을 불러오지 못했습니다.

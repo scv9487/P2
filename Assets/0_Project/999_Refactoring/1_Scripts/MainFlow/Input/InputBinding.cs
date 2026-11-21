@@ -18,6 +18,31 @@ namespace Refactor.Main.InputModule
         {
             foreach (var input in _stream.UIInputs)
             {
+                if (input.Type >= UIInputType.InventoryOpen)
+                {
+                    yield return new HeroMenuActionRequested(input.Type, input.Value, input.Context);
+                    continue;
+                }
+                if (input.Type >= UIInputType.QuestSelect)
+                {
+                    yield return new QuestActionRequested(input.Type, input.Value, input.Context);
+                    continue;
+                }
+                if (input.Type >= UIInputType.CharacterOpen)
+                {
+                    yield return new CharacterActionRequested(input.Type, input.Value, input.Context);
+                    continue;
+                }
+                if (input.Type >= UIInputType.DungeonMove)
+                {
+                    yield return new DungeonActionRequested(input.Type, input.Value, input.Context);
+                    continue;
+                }
+                if (input.Type >= UIInputType.StartGame)
+                {
+                    yield return new TownActionRequested(input.Type, input.Value, input.Context);
+                    continue;
+                }
                 yield return input.Type == UIInputType.ApplyLabel
                     ? (IEventData)new SetLabelRequested(input.Value)
                     : new UIActionRequested(input.Type);

@@ -1,0 +1,2 @@
+QuestId,Floor,Id,Name,Description,Icon,X,Y,AnchorId,EnemyCount
+rescue_adventurers,1,rescue,구조 요청,모험가들이 회색 쥐에게 포위되어 있다. 적을 물리치면 안전한 길을 열 수 있다.,구조,0.55,0.82,cache,2

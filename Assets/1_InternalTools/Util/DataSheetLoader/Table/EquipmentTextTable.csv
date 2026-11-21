@@ -1,0 +1,36 @@
+Key,Value
+bag.health_format,현재 HP  {0:0.##} / {1:0.##}
+bag.equipped,장착 중
+bag.equip,장착 · 교체
+bag.use,자신에게 사용
+bag.choose_item,물품을 선택하세요
+bag.choose_hint,왼쪽 목록에서 물품을 선택하면 장착하거나 사용할 수 있습니다.
+bag.owned_price_format,보유 {0:N0}개  ·  정가 {1:N0} G
+bag.weapon_description_format,"무기  {0}
+장착 직업  {1}"
+bag.weapon_retained,기존에 배운 스킬과 남은 SP는 유지됩니다. 장착 중인 1개는 판매할 수 없습니다.
+bag.combat_action,전투 중에는 자신의 차례에 한 행동을 소비합니다.
+bag.equip_free,전투 밖에서는 행동 소비 없이 장비를 교체할 수 있습니다.
+bag.potion_description_format,"자신의 HP를 {0:0.##} 회복합니다.
+현재 회복 가능  {1:0.##} HP"
+bag.potion_self_only,포션 1개를 사용합니다. HP가 가득 찼거나 사망한 상태에서는 소비하지 않습니다.
+bag.potion_free,전투 밖에서는 행동 소비 없이 사용할 수 있습니다.
+bag.material_description,거래하거나 의뢰에 납부할 수 있는 물품입니다. 가방에서 직접 사용할 수 없습니다.
+bag.equip_ready,장착하면 무기에 맞는 직업과 사용 가능한 액티브 스킬이 바뀝니다.
+bag.use_ready,확정하면 포션 1개를 사용하고 자신의 HP를 회복합니다.
+shop.equipped_price_format,장착 중 1개 예약 · 판매 가능 {0:N0}개 · 정가 {1:N0} G
+shop.reserved_notice,장착 중인 무기 1개는 판매할 수 없습니다. 다른 무기로 교체하거나 여분을 판매하세요.
+shop.available_sell_format,판매 가능  {0:N0}개
+inventory.summary_format,소지품 {0:N0}종 · 가방에서 자세히 보기
+inventory.weapon_count_format,무기 {0:N0}종
+status.equipped_format,{0}을(를) 장착했습니다.
+status.used_format,{0}을(를) 사용해 HP를 {1:0.##} 회복했습니다.
+status.not_owned,선택한 물품을 보유하고 있지 않습니다.
+status.already_equipped,이미 장착 중인 무기입니다.
+status.full_health,HP가 가득 차 있어 포션을 사용하지 않습니다.
+status.not_alive,사망한 상태에서는 장비를 교체하거나 포션을 사용할 수 없습니다.
+status.turn_required,전투 중에는 플레이어 자신의 차례에 장비를 교체하거나 포션을 사용할 수 있습니다.
+status.save_failed,아이템 변경을 저장하지 못했습니다. 다시 시도해 주세요.
+status.load_failed,저장 데이터를 불러올 수 없어 아이템을 변경할 수 없습니다. 원본은 보존됩니다.
+status.invalid_item,선택한 물품을 장착하거나 사용할 수 없습니다.
+status.invalid_request,물품과 현재 상태를 다시 확인해 주세요.

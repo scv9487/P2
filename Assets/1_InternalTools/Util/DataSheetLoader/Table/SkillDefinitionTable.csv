@@ -1,0 +1,62 @@
+Id,Name,Description,TreeId,TreeKind,Order,RequiredLevel,Cost,PrerequisiteIds,TargetType,DamageType,AttackType,Values,Cooldown,EnergyCost,StartDelay,EndDelay,IsDelayAdjustedByAttackSpeed,RequiredEquipment,IsBasicAttack
+SKILL_VerticalSlash,버티컬 슬래시,검을 대상에게 강하게 내려 찍어 물리 공격력의 {0}%에 해당하는 물리 피해를 입힙니다.,Sword,Main,1,0,8,,SingleEnemy,Physical,Melee,300,12,3,0.2,0.2,0,Equipment_Sword,0
+SKILL_SwordCounter,소드 카운터,"{0}초 동안 [요새화]을 얻고, 근접 피해 가드 시 적에게 물리 공격력의 {1}%의 피해를 입힙니다.",Sword,Main,3,0,8,,Self,Physical,Melee,12;200,18,4,0.2,0.2,0,Equipment_Sword,0
+SKILL_ChainSlash,체인 슬래시,대상에게 물리 공격력의 {0}%의 물리 피해를 {1}회 입힙니다.,Sword,Main,4,4,10,SKILL_VerticalSlash,SingleEnemy,Physical,Melee,100;4,12,3,0.2,0.2,0,Equipment_Sword,0
+SKILL_PommelStrike,폼멜 스트라이크,"대상에게 폼멜을 휘둘러 물리 공격력의 {0}%에 해당하는 물리 피해를 입히고, {1}초 동안 [기절]을 부여합니다.",Sword,Main,5,4,10,SKILL_SwordCounter,SingleEnemy,Physical,Melee,120;1,6,3,0.2,0.2,0,Equipment_Sword,0
+SKILL_Slay,슬레이,단일 적 대상에게 물리 공격력의 {0}%의 피해를 입히고 스스로 {1}초 동안 {2}의 [빈틈]을 얻습니다. 이 공격으로 적을 처치하면 이 스킬의 재사용 대기시간이 70% 감소합니다.,Greatsword,Main,1,0,8,,SingleEnemy,Physical,Melee,450;3;1,10,4,0.2,0.2,0,Equipment_Greatsword,0
+SKILL_BladeGrinding,블레이드 그라인딩,다음 액티브 스킬의 피해량이 {0}% 증가하고 적중률이 {1}% 증가합니다.,Greatsword,Main,4,4,10,SKILL_Slay,Self,Physical,None,50;30,12,2,0.2,0.2,0,Equipment_Greatsword,0
+SKILL_BattleStomp,배틀 스텀프,강하게 발을 굴러 근처 모든 적 유닛에게 물리 공격력의 {0}%의 물리 피해를 입히고 {1}초간 [방해]와 {2}의 [어지러움]을 부여합니다.,Blunt,Main,1,0,8,,AllEnemies,Physical,Melee,30;15;1,30,6,0.2,0.2,0,Equipment_Blunt,0
+SKILL_IronClad,아이언 클래드,{0}초 동안 자신의 잃은 생명력의 {1}% 만큼 보호막을 얻습니다.,Blunt,Main,2,0,8,,Self,Physical,None,12;120,18,3,0,0,0,Equipment_Blunt,0
+SKILL_Hammering,해머링,대상에게 물리 공격력의 {0}%의 물리 피해를 입히고 {1}초간 {2}의 [경직]와  {3}의 [어지러움]을 부여합니다.,Blunt,Main,3,0,8,,SingleEnemy,Physical,Melee,260;10;1;1,10,3,0.2,0.2,0,Equipment_Blunt,0
+SKILL_VileInsult,바일 인설트,상대를 모욕하여 대상에게 마법 공격력의 {0}%의 마법 피해를 입히고 {1}초간 [도발]과 [취약]을 부여합니다.,Blunt,Main,4,4,10,SKILL_IronClad;SKILL_BattleStomp,SingleEnemy,Physical,Ranged,100;10,8,3,0.2,0.2,0,Equipment_Blunt,0
+SKILL_WildFlurry,와일드 플러리,적중률이 {0}% 감소한 상태로 대상에게 물리 공격력의 {1}%의 물리 피해를 {2}회 입힙니다.,Blunt,Main,5,4,10,SKILL_IronClad;SKILL_Hammering,SingleEnemy,Physical,Melee,30;80;4,12,3,0.2,0.2,0,Equipment_Blunt,0
+SKILL_Incinerate,인시너레이트,"순간적으로 대상을 불태워 마법 공격력의 {0}%의 마법 피해를 입히고, 대상이 가진 [연소] * 마법 공격력의 {1}% 만큼의 피해를 입힌 뒤 연소 중첩을 초기화 시킵니다.",FireMagic,Main,2,0,8,,SingleEnemy,Magic,Ranged,300;30,12,4,0.2,0.2,0,Equipment_FireStaff,0
+SKILL_BecomeFire,비컴 파이어,스스로를 불꽃으로 만들어 즉시 {0}초 동안 {1}의 [연소]을 얻고 {2}초 동안 현재 연소 중첩*{3}% 만큼 마법 공격력이 증가합니다.,FireMagic,Main,4,4,10,,Self,Physical,None,30;2;30;12,15,5,0.2,0.2,0,Equipment_FireStaff,0
+SKILL_Explosion,익스플로전,정신을 집중하여 범위 내의 모든 유닛에게 마법 공격력의 {0}%의 마법 피해를 입히 고 {1}초 동안 {2}의 [연소]를 부여하는 불꽃 투사체를 날립니다.,FireMagic,Main,5,4,10,SKILL_Incinerate,AllUnits,Magic,Ranged,400;10;5,30,7,0,0.2,0,Equipment_FireStaff,0
+SKILL_ShieldUp,실드 업,{0}초 동안 [요새화]와 [둔화]를 얻습니다. 이 스킬이 지속되는 동안 가드 대미지 감소율이 {1}% 증가합니다.,Shield,Main,1,0,8,,Self,Physical,None,25;35,30,5,0,0,0,Equipment_Shield,0
+SKILL_GuardiansTaunt,가디언즈 타운트,방패를 세게 두들겨 주변 5타일 내 적 유닛들에게 {0}초 동안 도발을 부여합니다.,Shield,Main,2,4,10,SKILL_ShieldUp,AllEnemies,Physical,None,6,30,5,0,0,0,Equipment_Shield,0
+SKILL_TwinThrust,트윈 스러스트,{0}초 동안 기본 공격이 대상에게 물리 공격력의 {1}%의 물리 피해를 {2}회 입히는 것으로 변경됩니다.,Spear,Main,1,0,8,,Self,Physical,None,10;70;2,20,4,0,0,0,Equipment_Spear,0
+SKILL_OpeningStrike,오프닝 스트라이크,"대상에게 물리 공격력의 {0}%의 물리 피해를 입히고, {1}초 동안 [취약]을 부여합니다.",Spear,Main,3,0,8,,SingleEnemy,Physical,Melee,250;8,12,4,0.2,0.2,0,Equipment_Spear,0
+SKILL_TwoHandGrip,투 핸드 그립,양손 무기가 아닌 주무기를 장착하고 보조 장비가 없는 동안 물리 공격력이 {0}% 증가합니다.,Warrior,Sub,1,0,5,,None,Physical,Melee,35,0,0,0.2,0.2,1,,0
+SKILL_SwordmansResolve,소드맨스 리졸브,스킬 재사용 대기 시간 감소가 {0} 증가합니다.,Warrior,Sub,2,0,5,,None,Physical,Melee,12,0,0,0.2,0.2,1,,0
+SKILL_SharpEdge,샤프 엣지,스킬 사용 시 {0}초 동안 물리 공격력이 {0}% 증가합니다. 최대 6회 중첩됩니다.,Warrior,Sub,5,4,6,SKILL_SwordmansResolve,None,Physical,Melee,8;6,0,0,0.2,0.2,1,,0
+SKILL_BladeSpirit,블레이드 스프릿,적에게 스킬로 근접 물리 치명타 피해를 입힐 시 {0}의 기력을 회복합니다.,Warrior,Sub,4,4,6,SKILL_SwordmansResolve,None,Physical,Melee,1,0,0,0.2,0.2,1,,0
+SKILL_FlowSeeker,플로 시커,단일 적 대상 근접 스킬 사용시 대상에게 {0}초 동안 1의 [빈틈]을 부여합니다.,Warrior,Sub,3,4,6,SKILL_TwoHandGrip,None,Physical,Melee,5,0,0,0.2,0.2,1,,0
+SKILL_Executioner,익세큐셔너,적 처치시 {0}초 동안 치명타 확률이 {1}% 증가합니다. 최대 {2}% 까지 증가할 수 있습니다.,Execution,Sub,5,4,6,SKILL_ColdFury,None,Physical,Melee,10;10;30,0,0,0.2,0.2,1,,0
+SKILL_ColdFury,콜드 퓨리,적 처치시 {0}초 동안 주는 피해량이 {1}% 증가합니다.,Execution,Sub,3,0,5,,None,Physical,Melee,5;20,0,0,0.2,0.2,1,,0
+SKILL_InevitableBlow,인에비터블 블로우,[기절] 상태의 유닛을 대상으로 근접 피해를 가할 때 확정적으로 공격이 명중합니다.,Execution,Sub,1,0,5,,None,Physical,Melee,-1,0,0,0.2,0.2,1,,0
+SKILL_CrimsonRecoil,크림슨 리코일,적 처치시 {0}초 동안 잃은 생명력의 {1}%에 해당하는 [보호막]을 얻습니다.,Execution,Sub,2,0,5,,None,Physical,Melee,6;30,0,0,0.2,0.2,1,,0
+SKILL_FatalVerdict,페이탈 버딕트,"적에게 근접 물리 피해를 입힐 시, 상대의 잃은 생명력에 비례하여 최대 {0}%까지 피해량이 증가합니다.",Execution,Sub,4,4,6,SKILL_CrimsonRecoil;SKILL_InevitableBlow,None,Physical,Melee,30,0,0,0.2,0.2,1,,0
+SKILL_SavageBarrier,세비지 베리어,현재 생명력이 {0}% 이하로 감소하면 {1}초 동안 최대 생명력의 {2}% 만큼의 보호막을 얻습니다. 이 효과는 한 전투에서 최대 1회 발동합니다.,Berserker,Sub,1,0,5,,None,Physical,Melee,25;5;30,0,0,0.2,0.2,1,,0
+SKILL_GuardBarrier,가드 베리어,적 유닛에게 부정적 효과 부여시 {0}초 동안 최대 생명력의 {1}%에 해당하는 보호막을 얻습니다.,Fortress,Sub,1,0,5,,None,Physical,Melee,5;5,0,0,0.2,0.2,1,,0
+SKILL_Fortified,포티파이드,보호막 습득 시 추가로 {0}%의 중첩을 얻습니다.,Fortress,Sub,2,0,5,,None,Physical,Melee,20,0,0,0.2,0.2,1,,0
+SKILL_FinesseEdge,피니스 엣지,부정적 효과를 가진 대상으로부터 받는 피해량이 {0}% 감소합니다.,Fortress,Sub,4,4,6,SKILL_GuardBarrier,None,Physical,Melee,12,0,0,0.2,0.2,1,,0
+SKILL_BarrierResurge,배리어 리서지,보호막이 소모되거나 만료되면 감소한 보호막의 {0}% 만큼 생명력을 회복합니다.,Fortress,Sub,3,0,5,,None,Physical,Melee,20,0,0,0.2,0.2,1,,0
+SKILL_MockingGrin,모킹 그린,자신에게 도발 당한 대상으로부터 피해를 받을 때 마다 {1}초 동안 받은 피해의 {0}%에 해당하는 보호막을 얻습니다.,Fortress,Sub,5,4,6,SKILL_Fortified;SKILL_BarrierResurge,None,Physical,Melee,20;10,0,0,0.2,0.2,1,,0
+SKILL_FastHand,패스트 핸드,공격 속도가 {0}% 증가합니다.,Blitz,Sub,1,0,5,,None,Physical,Melee,12,0,0,0.2,0.2,1,,0
+SKILL_SharpShooter,샤프 슈터,기본 공격으로 처치한 적의 수가 {0}/{1}/{2}/{3}/{4}/{5} 달성 될 때마다 치명타 확률이 {6}% 증가합니다.,Blitz,Sub,3,0,5,,None,Physical,Melee,10;25;100;250;1000;2500;7,0,0,0.2,0.2,1,,0
+SKILL_FirstAssault,퍼스트 어설트,전투 시작시 {0}초 동안 물리 공격력이 {1}% 증가합니다.,Blitz,Sub,4,4,6,SKILL_FastHand,None,Physical,Melee,15;35,0,0,0.2,0.2,1,,0
+SKILL_CombatMomentum,컴뱃 모멘텀,적 처치시 {0}초 동안 공격 속도가 {1}% 증가합니다. 최대 3회까지 증가할 수 있습니다.,Blitz,Sub,5,4,6,SKILL_SharpShooter,None,Physical,Melee,5;8,0,0,0.2,0.2,1,,0
+SKILL_FireProof,파이어 프루프,얻는 [연소] 중첩량을 추가로 {0}% 얻습니다. [연소]으로 인한 피해를 {1}% 무시합니다.,Burst,Sub,3,4,6,SKILL_Ignition,None,Physical,Melee,100;40,0,0,0.2,0.2,1,,0
+SKILL_LastCinder,라스트 신더,"생명력이 {0}% 이하일 때, 기본 공격 시 상대에게 {1}의 [연소]을 {2}초 동안 부여합니다.",Burst,Sub,2,0,5,,None,Physical,Melee,50;1;5,0,0,0.2,0.2,1,,0
+SKILL_Ignition,이그니션,"[연소]를 보유한 적 대상에게 피해를 줄 때, 가하는 피해량이 [연소] * {0}% 만큼 증가합니다.",Burst,Sub,1,0,5,,None,Physical,Melee,3,0,0,0.2,0.2,1,,0
+SKILL_FlameOfLife,플레임 오브 라이프,적 유닛에게 [연소] 부여시 현재 잃은 생명력의 {0}%를 회복합니다.,Burst,Sub,5,4,6,SKILL_LastCinder,None,Physical,Melee,4,0,0,0.2,0.2,1,,0
+SKILL_WaveCicle,웨이브 사이클,보호막 습득 시 모든 스킬의 재사용 대기 시간이 {0}% 감소합니다.,Tide,Sub,4,4,6,,None,Physical,Melee,10,0,0,0.2,0.2,1,,0
+SKILL_ShieldHandling,실드 핸들링,"가드율이 {0}% 증가합니다. 방패 장착 시 공격 속도가 {1}% 증가하며, 장착한 방패의 무게가 0이 됩니다.",Guardian,Sub,1,0,5,,None,Physical,Melee,10;20,0,0,0.2,0.2,1,,0
+SKILL_ElasticGuard,엘라스틱 가드,가드시 {0}초 동안 가드에 의해 감소된 피해량의 {1}% 만큼의 보호막을 얻습니다.,Guardian,Sub,4,4,6,,None,Physical,Melee,3;25,0,0,0.2,0.2,1,,0
+SKILL_Withstand,위드스탠드,"생명력이 50% 이하일 때, 가드율이 {0}% 증가합니다.",Guardian,Sub,3,4,6,SKILL_ShieldHandling,None,Physical,Melee,25,0,0,0.2,0.2,1,,0
+SKILL_InnerGrove,이너 그루브,자신이 받는 모든 생명력 회복 효과가 {0}% 증가합니다.,Harmony,Sub,1,0,5,,None,Physical,Melee,25,0,0,0.2,0.2,1,,0
+SKILL_LifeCycle,라이프 사이클,전투 중 적 유닛 사망시 모든 아군 유닛에게 {0}초 동안 마법 공격력의 {1}%에 해당하는 [생명력 촉진]을 부여합니다.,Harmony,Sub,4,4,6,SKILL_InnerGrove,None,Physical,Melee,2;1,0,0,0.2,0.2,1,,0
+SKILL_HealingTouch,힐링 터치,자연 지팡이를 장착하면 기본 공격이 아군의 생명력을 회복하는 힐링 터치로 변경됩니다. 회복량은 힐링 터치 공격의 정의를 따릅니다.,Harmony,Sub,3,0,5,,None,Physical,Melee,30,0,0,0.2,0.2,1,,0
+SKILL_Initiative,이니셔티브,전투 시작 시 {0}초 동안 공격 속도가 {1}% 증가합니다.,Stake,Sub,2,0,5,,None,Physical,Melee,15;35,0,0,0.2,0.2,1,,0
+SKILL_BattleCadence,배틀케이던스,기본 공격을 {0}회 가할 때 마다 대상에게 물리 공격력의 {1}%에 해당하는 물리 피해를 추가로 입힙니다.,Stake,Sub,3,4,6,,None,Physical,Melee,3;30,0,0,0.2,0.2,1,,0
+SKILL_BasicPunchAttack,공격:주먹,대상에게 물리 공격력의 {0}%의 물리 피해를 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Melee,30,0,0,0.4,0.2,1,,1
+SKILL_BasicSwordAttack,공격:검,대상에게 물리 공격력의 {0}%의 물리 피해를 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Melee,100,0,0,0.8,0.2,1,,1
+SKILL_BasicGreatswordAttack,공격:대검,선택한 적에게 물리 공격력의 {0}%에 해당하는 물리 피해를 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Melee,100;40,0,0,0.8,0.2,1,,1
+SKILL_BasicClubAttack,공격:둔기,대상에게 물리 공격력의 {0}%의 물리 피해를 입힙니다. 치명타 발생 시 {1}초 동안 {2}의 어지러움을 부여합니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Melee,80;10;1,0,0,0.8,0.2,1,,1
+SKILL_BasicBowAttack,공격 : 활,선택한 적에게 물리 공격력의 {0}%에 해당하는 물리 피해를 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Ranged,100;1;50,0,0,0.8,0.2,1,,1
+SKILL_BasicMagicMissile,공격 : 매직 미사일,대상에게 마법 공격력의 {0}%의 마법 피해를 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Magic,Ranged,100,0,0,1.2,0.3,1,,1
+SKILL_BasicSpearAttack,공격 : 창,선택한 적에게 물리 공격력의 {0}%에 해당하는 물리 피해를 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Melee,90,0,0,0.8,0.2,1,,1
+SKILL_TwinThrustAttack,트윈 스러스트 어택,선택한 적에게 물리 공격력의 {0}%에 해당하는 물리 피해를 {1}회 입힙니다.,Basic,Main,0,0,0,,SingleEnemy,Physical,Melee,70;2,0,0,0.8,0.2,1,Equipment_Spear,1
+SKILL_HealingTouchAttack,공격 : 힐링 터치,아군 유닛의 생명력을 마법 공격력의 {0}% 만큼 회복시킵니다.,Basic,Main,0,0,0,,SingleAlly,Magic,Ranged,50,0,0,0.8,0.2,1,Equipment_NatureStaff,1
+SKILL_FireMissileAttack,공격 : 파이어 미사일,"대상에게 마법 공격력의 {0}%에 해당하는 마법 피해를 입히고, {1}초 동안 {2}의 [연소]을 부여합니다.",Basic,Main,0,0,0,,SingleEnemy,Magic,Ranged,130;10;3,0,0,1.2,0.3,1,Equipment_FireStaff,1

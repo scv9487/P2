@@ -2,7 +2,7 @@
 
 ## 시작하기
 
-Unity **6000.0.58f2**에서 프로젝트를 열고 `Assets/0_Project/2_Test/0_Scenes/2_Test.unity`를 열어 Play한다. Build Settings에도 이 씬 하나가 등록되어 있다. 기존 템플릿 SampleScene은 보존했지만 실행 목록에서는 제외했다.
+Unity **6000.0.58f2**에서 기반 예제를 보려면 `Assets/0_Project/2_Test/0_Scenes/2_Test.unity`를 열어 Play한다. 기본 시작 씬은 이제 [타이틀](TitleAndTown.md)이며, 기반 테스트 씬도 Build Settings에 별도로 유지한다. 기존 템플릿 SampleScene은 보존했지만 실행 목록에서는 제외했다.
 
 숫자 증가/감소, 이름 입력 후 적용, 저장, 변경/초기화, 불러오기 순으로 확인한다. F1/F2/F5/F9/Escape 단축키와 모달 팝업도 사용할 수 있다. 자세한 규칙과 구현 기본값은 [기획서](../Planning/01_Foundation.md)에 있다.
 
@@ -27,7 +27,7 @@ MainFlow.OnDestroy
   버튼 listener / 보류 입력 / 보류 요청 / DI 등록 해제
 ```
 
-1. `Assets/0_Project/999_Refactoring/1_Scripts/MainFlow/MainFlow.cs`: 씬 직렬화 연결, 생성·주입·실행 순서·수명을 읽는다.
+1. `Assets/0_Project/999_Refactoring/1_Scripts/MainFlow/MainFlow.cs`: 씬 직렬화 연결, 생성·주입·실행 순서·수명을 읽는다. 이 문서의 예제는 SceneType.FoundationTest와 InitFoundation 경로다.
 2. 같은 폴더의 `Input/UIInputStream.cs`, `InputBinding.cs`, `InputDispatcher.cs`: 버튼과 키가 데이터 대신 요청을 만드는 경로다.
 3. `Assets/0_Project/2_Test/1_Scripts/MainFlow/Event/`: 요청 DTO, 타입별 처리기 등록, 동기 큐, 요청 실행이다. 실행 도중 같은 큐 등록과 Update 재진입은 예외로 차단한다. 미등록 요청도 조용히 버리지 않는다.
 4. `.../MainFlow/TestData/FoundationDataContainer.cs`: 숫자·이름·성공한 변경 횟수의 원본, 경계 검사, 초기화/복원이다. 상태 변경 실패는 숫자/이름/횟수를 일부만 변경하지 않는다.

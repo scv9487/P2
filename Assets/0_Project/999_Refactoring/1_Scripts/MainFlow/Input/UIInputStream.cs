@@ -10,9 +10,9 @@ namespace Refactor.Main.InputModule
             _inputStream = inputStream;
         }
 
-        public void AddInput(UIInputType action)
+        public void AddInput(UIInputType action, string value = null, string context = null)
         {
-            _inputStream.AddUIInput(new UIInput(action));
+            _inputStream.AddUIInput(new UIInput(action, value, context));
         }
 
         public void SetLabel(string label)

@@ -1,0 +1,6 @@
+Id,Name,Subtitle,Description,CommandIds,VisitorIds,ArtIndex
+tavern,주점,잔과 이야기 사이,낮은 웃음소리와 잔 부딪치는 소리가 이어진다. 잠시 자리를 잡으면 길에서 돌아온 모험가의 이야기를 들을 수 있을 것 같다.,trade;rumor;leave,mira;orin;bran;sera;neri;cass,0
+market,시장,여정에 필요한 것들,천막 아래로 물건을 살피는 발길이 모인다. 장비를 고르는 모험가들이 저마다 다음 여정을 준비하고 있다.,trade;leave,orin;mira,1
+inn,여관,잠시 숨을 고르는 곳,문을 닫자 거리의 소음이 한결 멀어진다. 따뜻한 불빛 아래 쉬어 가는 모험가들의 모습이 보인다.,rest;leave,sera;bran,2
+guild,길드,새로운 일과 만남,게시판 앞에 모험가들이 모여 있다. 돌아온 이와 떠나려는 이가 한자리에서 다음 이야기를 기다린다.,quest_accept;quest_complete,orin;sera,3
+dungeon,던전,깊은 곳으로 향하는 길,여섯 갈래의 길이 지하로 이어진다. 숫자가 높은 던전일수록 강한 적이 기다린다.,enter_dungeon;leave,,3

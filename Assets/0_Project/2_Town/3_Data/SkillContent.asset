@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ad3c08418a34af5a6c251f3eba2fb63, type: 3}
+  m_Name: SkillContent
+  m_EditorClassIdentifier: 
+  Skills: {fileID: 4900000, guid: 47a0e7945a7c469d8bc52e4680cb3683, type: 3}
+  Classes: {fileID: 4900000, guid: 781c1f341ceb46a882a86f6ac24dbdab, type: 3}
+  CharacterClasses: {fileID: 4900000, guid: c96f8ce42a464859bf9df2459a6cb276, type: 3}
+  Weapons: {fileID: 4900000, guid: bd9cb13a408b43daa2b85560197eda80, type: 3}
+  Settings: {fileID: 4900000, guid: fecc6ffc208147a28fc10769e864a15e, type: 3}
+  Texts: {fileID: 4900000, guid: 01c87c8bf2ed4eb29b4ced3fd988dcd4, type: 3}

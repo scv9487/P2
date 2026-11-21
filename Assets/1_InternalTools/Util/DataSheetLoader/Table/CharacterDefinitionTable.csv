@@ -1,0 +1,8 @@
+Id,IsPlayer,Gender,Age,Strength,Constitution,WillPower,Intelligence,Agility,Perception,InitialAffinity,LootWeight
+hero,1,남성,24,10,10,10,10,10,10,0,1
+mira,0,여성,25,10,10,10,10,10,10,0,1
+orin,0,남성,58,10,10,10,10,10,10,0,1
+bran,0,남성,39,10,10,10,10,10,10,0,1
+sera,0,여성,29,10,10,10,10,10,10,0,1
+neri,0,여성,22,10,10,10,10,10,10,0,1
+cass,0,남성,31,10,10,10,10,10,10,0,1

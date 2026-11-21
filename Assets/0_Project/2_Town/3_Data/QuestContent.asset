@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cda92bdab5454c33a23af4cbfeb6196a, type: 3}
+  m_Name: QuestContent
+  m_EditorClassIdentifier: 
+  Quests: {fileID: 4900000, guid: e0b04feb63234a23bfb5bae5f14a73da, type: 3}
+  RescueNodes: {fileID: 4900000, guid: 3bf966f116aa405a8c0045e7f401966a, type: 3}
+  Texts: {fileID: 4900000, guid: 36c74b220b724a549bfe095ef7bfa30f, type: 3}

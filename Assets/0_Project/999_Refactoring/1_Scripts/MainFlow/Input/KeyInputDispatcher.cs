@@ -8,11 +8,13 @@ namespace Refactor.Main.InputModule
     {
         private readonly InputStream _stream;
         private readonly InputFilter _filter;
+        private readonly InputProfile _profile;
 
-        public KeyInputDispatcher(InputStream stream, InputFilter filter)
+        public KeyInputDispatcher(InputStream stream, InputFilter filter, InputProfile profile = InputProfile.FoundationTest)
         {
             _stream = stream;
             _filter = filter;
+            _profile = profile;
         }
 
         public void UpdateKeyStream()
@@ -24,6 +26,25 @@ namespace Refactor.Main.InputModule
             var selected = EventSystem.current?.currentSelectedGameObject;
             if (selected != null && selected.TryGetComponent<InputField>(out var field) && field.isFocused)
             {
+                return;
+            }
+            if (_profile == InputProfile.Title)
+            {
+                // 선택된 버튼은 EventSystem의 Submit이 실행한다. 종료 버튼의 Enter를 시작으로 바꾸지 않는다.
+                if (selected == null || !selected.TryGetComponent<Selectable>(out _))
+                {
+                    Capture(KeyCode.Return, UIInputType.StartGame);
+                }
+                return;
+            }
+            if (_profile == InputProfile.Dungeon)
+            {
+                Capture(KeyCode.Escape, UIInputType.DungeonBack);
+                return;
+            }
+            if (_profile == InputProfile.Town)
+            {
+                Capture(KeyCode.Escape, UIInputType.Back);
                 return;
             }
             Capture(KeyCode.F1, UIInputType.Increment);

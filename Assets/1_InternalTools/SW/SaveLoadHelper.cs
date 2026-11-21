@@ -25,13 +25,15 @@ namespace Refactor
         }
 
         // 누락된 필드를 구분할 초기값은 저장 형식 계층에서 제공한다.
-        public static void LoadJsonInto<T>(string path, T data) where T : class
+        public static void LoadJsonInto<T>(string path, T data, Action<string> validateJson = null) where T : class
         {
             if (data == null)
             {
                 throw new ArgumentNullException(nameof(data));
             }
-            JsonUtility.FromJsonOverwrite(File.ReadAllText(path, Utf8NoBom), data);
+            string json = File.ReadAllText(path, Utf8NoBom);
+            validateJson?.Invoke(json);
+            JsonUtility.FromJsonOverwrite(json, data);
         }
 
         private static void EnsureDirectoryExists(string directoryPath)

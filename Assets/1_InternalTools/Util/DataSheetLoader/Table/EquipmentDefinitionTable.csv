@@ -1,0 +1,10 @@
+ItemId,WeaponId
+weapon_sword,Equipment_Sword
+weapon_greatsword,Equipment_Greatsword
+weapon_blunt,Equipment_Blunt
+weapon_bow,Equipment_Bow
+weapon_fire_staff,Equipment_FireStaff
+weapon_water_staff,Equipment_WaterStaff
+weapon_nature_staff,Equipment_NatureStaff
+weapon_shield,Equipment_Shield
+weapon_spear,Equipment_Spear

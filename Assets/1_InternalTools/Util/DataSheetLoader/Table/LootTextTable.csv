@@ -1,0 +1,43 @@
+Key,Value
+settlement.title,전리품 정산
+settlement.committed_title,정산 완료
+settlement.description,모두 판매가 기본입니다. 가져갈 물품은 정가로 구매하며 내 분배금도 구매에 사용할 수 있습니다.
+settlement.item,전리품
+settlement.acquired,획득 수량
+settlement.unit_price,정가
+settlement.purchase,내 구매 수량
+settlement.external,외부 판매 수량
+settlement.item_total,전체 평가액
+settlement.empty,획득한 전리품이 없습니다.
+settlement.quantity_format,{0:N0}개
+settlement.gold_format,{0:N0} G
+settlement.decrease,−
+settlement.increase,+
+settlement.total_format,분배할 총금액  {0:N0} G
+settlement.revenue_format,"외부 판매  {0:N0} G
+내 구매대금  {1:N0} G
+판매대금과 내 구매대금을 합쳐 나눕니다."
+settlement.shares,합의된 분배
+settlement.player_name_format,{0} · 나
+settlement.share_percent_format,{0}%
+settlement.share_gold_format,+ {0:N0} G
+settlement.balance_format,보유 {0:N0} G  +  분배 {1:N0} G  −  구매 {2:N0} G  =  잔액 {3:N0} G
+settlement.purchase_summary_format,소지품에 추가  ·  {0}
+settlement.item_summary_format,{0} {1:N0}개
+settlement.item_separator," / "
+settlement.no_purchase,구매한 물품 없음
+settlement.insufficient_format,금화가 {0:N0} G 부족합니다. 구매 수량을 줄여 주세요.
+settlement.ready,확정하면 구매한 물품과 남은 금화를 보관하고 마을로 돌아갑니다.
+settlement.confirm,정산 확정
+settlement.cancel,취소
+settlement.retry_return,마을로 이동
+settlement.committed_notice,정산이 완료되었습니다. 물품과 금화는 이미 보관되어 있습니다.
+inventory.gold_format,보유 금화  {0:N0} G
+inventory.item_format,{0}  {1:N0}개
+inventory.item_separator," / "
+inventory.empty,보유 물품 없음
+status.load_failed,저장 데이터를 불러올 수 없어 정산을 확정할 수 없습니다. 기존 파일은 유지됩니다.
+status.save_failed,정산을 저장하지 못했습니다. 다시 시도해 주세요.
+status.insufficient_gold,금화가 부족합니다. 구매 수량을 줄여 주세요.
+status.invalid_selection,구매 수량을 확인해 주세요.
+status.return_failed,마을로 이동하지 못했습니다. 다시 시도해 주세요.

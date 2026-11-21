@@ -1,0 +1,44 @@
+Key,Value
+hero.name,모험가
+hero.role,모험가
+party.count_format,파티  {0} / {1}
+party.empty,빈 자리
+party.player_name_format,{0} · 나
+party.member_format,Lv. {0} · 친밀도 {1:0.##}
+party.dungeon_member_format,Lv. {0} · HP {1:0.##} / {2:0.##}
+profile.identity_format,{0} · {1}세
+profile.progress_format,Lv. {0} · EXP {1:0.##} / {2:0.##}
+profile.affinity_format,친밀도  {0:0.##}
+profile.self,내 정보
+profile.actions,상호작용
+profile.dialogue,나누는 이야기
+action.talk,대화하기
+action.recruit,영입하기
+action.dismiss,추방하기
+action.close,닫기
+action.interact,상호작용
+stats.major,기본 능력
+stats.combat,전투 능력
+stats.strength,근력
+stats.constitution,체력
+stats.will_power,의지
+stats.intelligence,지능
+stats.agility,민첩
+stats.perception,인지력
+stats.value_format,{0:0.##}
+stats.percent_format,{0:0.##}%
+stats.multiplier_format,{0:0.##}배
+stats.diminishing_format,{0:0.##} ({1:0.##}%)
+status.hero,내 정보를 확인할 수 있습니다. 자신과 대화하거나 자신을 추방할 수는 없습니다.
+status.recruit_hint,대화를 나누거나 함께 모험할 동료로 영입할 수 있습니다.
+status.party_hint,동료와 대화를 나누거나 파티에서 내보낼 수 있습니다.
+status.load_failed,저장 데이터를 불러올 수 없어 인물 정보를 변경할 수 없습니다. 원본은 보존됩니다.
+status.save_failed,변경 내용을 저장하지 못했습니다. 다시 시도해 주세요.
+status.recruit_failed,지금은 이 인물을 영입할 수 없습니다.
+status.recruited_format,{0}이(가) 파티에 합류했습니다.
+status.dismissed_format,{0}이(가) 파티에서 떠났습니다.
+status.talked_format,{0}와(과) 대화했습니다. 친밀도 +{1:0.##}
+status.party_full,파티가 가득 찼습니다. 동료를 내보낸 뒤 영입할 수 있습니다.
+status.invalid_request,지금은 이 상호작용을 할 수 없습니다.
+status.exp_save_failed,전투 경험치를 저장하지 못했습니다. 다시 시도해 주세요.
+status.exp_gained_format,전투 경험치 +{0:0.##}

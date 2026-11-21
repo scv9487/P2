@@ -8,12 +8,12 @@ namespace Refactor.Main.InputModule
         private readonly InputBinding _binding;
         private readonly IEventQueue _queue;
 
-        public InputDispatcher(InputStream stream, InputFilter filter, IEventQueue queue)
+        public InputDispatcher(InputStream stream, InputFilter filter, IEventQueue queue, InputProfile profile = InputProfile.FoundationTest)
         {
             _stream = stream;
             _filter = filter;
             _queue = queue;
-            _keys = new KeyInputDispatcher(stream, filter);
+            _keys = new KeyInputDispatcher(stream, filter, profile);
             _binding = new InputBinding(stream);
         }
 
