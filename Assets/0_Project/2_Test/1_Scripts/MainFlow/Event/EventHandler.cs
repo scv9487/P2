@@ -10,11 +10,17 @@ namespace Refactor.Main.Event
     public sealed class EventHandler
     {
         public readonly FoundationEventHandler Foundation;
+        public readonly IEventHandler Gameplay;
 
         public EventHandler(FoundationEventHandler foundation)
         {
             Foundation = foundation;
             DI.PubSub(Foundation);
+        }
+
+        public EventHandler(IEventHandler gameplay)
+        {
+            Gameplay = gameplay ?? throw new System.ArgumentNullException(nameof(gameplay));
         }
     }
 }

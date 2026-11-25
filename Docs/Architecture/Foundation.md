@@ -1,8 +1,10 @@
 # P2 기반 구조와 코드 읽기
 
+이 문서는 초기 기반 테스트 씬의 구조와 당시 검증 기록이다. 타이틀·가챠샵 추가 이후의 게임 진입과 씬 구성은 [가챠 트레이너즈 구조](GachaTrainers.md)를 참고한다.
+
 ## 시작하기
 
-Unity **6000.0.58f2**에서 프로젝트를 열고 `Assets/0_Project/2_Test/0_Scenes/2_Test.unity`를 열어 Play한다. Build Settings에도 이 씬 하나가 등록되어 있다. 기존 템플릿 SampleScene은 보존했지만 실행 목록에서는 제외했다.
+Unity **6000.0.58f2**에서 프로젝트를 열고 `Assets/0_Project/2_Test/0_Scenes/2_Test.unity`를 열어 Play한다. 초기 기반 구축 당시 Build Settings에는 이 씬 하나를 등록했다. 이후 타이틀·가챠샵 씬을 추가하되 기반 회귀 테스트용으로 이 씬을 유지한다. 기존 템플릿 SampleScene은 실행 목록에서 제외한다.
 
 숫자 증가/감소, 이름 입력 후 적용, 저장, 변경/초기화, 불러오기 순으로 확인한다. F1/F2/F5/F9/Escape 단축키와 모달 팝업도 사용할 수 있다. 자세한 규칙과 구현 기본값은 [기획서](../Planning/01_Foundation.md)에 있다.
 

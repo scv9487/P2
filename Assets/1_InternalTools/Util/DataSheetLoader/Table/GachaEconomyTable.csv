@@ -1,0 +1,7 @@
+﻿Key,Values,Description
+Economy.StartingGold,600,새 모험 시작 금화
+Economy.CreaturePrice,100,크리쳐 가챠 1회 가격; 0이면 무료
+Economy.CrystalPrice,60,수정 가챠 1회 가격; 0이면 무료
+Economy.VictoryGold,200|200|200|200|200|200|200|200|200|200,1~10스테이지 승리 보상 배열; 각 스테이지 완료 시 한 번 지급
+Gacha.CreatureRarityWeights,300|180|90|30,크리쳐 일반|고급|희귀|전설 상대 가중치; 기본 50/30/15/5%; 전설은 선택권
+Gacha.CrystalRarityWeights,600|360|180|60,수정 일반|고급|희귀|전설 상대 가중치; 같은 등급 내 동일 확률

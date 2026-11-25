@@ -1,0 +1,19 @@
+﻿Key,Values,Description
+Crystal.Ember.HitCount,3,불씨가 발동하는 기본 공격 명중 횟수
+Crystal.Sink.HitCount,3,침몰이 발동하는 기본 공격 명중 횟수
+Crystal.Protection.ShieldRatio,0.5,보호: 잃은 생명력 대비 보호막 비율
+Crystal.Protection.Seconds,5,보호막 지속 초
+Crystal.Protection.Cooldown,12,보호 재발동 대기 초
+Crystal.Reflection.Ratio,0.25,실제 잃은 생명력 대비 반사 비율
+Crystal.DeathThroes.MaxBonus,0.4,잃은 생명력에 비례하는 최대 피해 증가 비율
+Crystal.Sink.MaxBonus,0.8,적 잃은 생명력에 비례하는 최대 피해 증가 비율
+Crystal.Capital.Threshold,0.15,처형 가능한 적 생명력 비율
+Crystal.MagicSmite.Ratio,0.2,실제 기본 공격 피해 대비 추가 마법 피해 비율
+Crystal.Giant.HealthRatio,0.03,최대 생명력 대비 물리 공격 추가 비율
+Crystal.Divine.HealthRatio,0.03,최대 생명력 대비 마법 공격 추가 비율
+Crystal.Jester.DodgeChance,10,광대 추가 회피율 %
+Crystal.Flint.CriticalChance,10,부싯돌 추가 치명타율 %
+Crystal.Elasticity.GuardChance,25,탄성 추가 가드율 %
+Crystal.Elasticity.HealRatio,0.08,가드 시 잃은 생명력 회복 비율
+Crystal.Elasticity.Seconds,1.5,탄성 피해 감소 지속 초
+Crystal.Elasticity.Reduction,0.3,탄성 피해 감소 비율

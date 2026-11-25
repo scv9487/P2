@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: 28d135be40b23a4418fa4225d01591dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2711546884112838544
+    second: EmberFox_Skill_0
+  - first:
+      213: 5920889117183963318
+    second: EmberFox_Skill_1
+  - first:
+      213: -5070776630947839124
+    second: EmberFox_Skill_2
+  - first:
+      213: -3159879453310877854
+    second: EmberFox_Skill_3
+  - first:
+      213: -7545474612043134573
+    second: EmberFox_Skill_4
+  - first:
+      213: 5361889484075582916
+    second: EmberFox_Skill_5
+  - first:
+      213: 488102188544413113
+    second: EmberFox_Skill_6
+  - first:
+      213: 5153560852064545908
+    second: EmberFox_Skill_7
+  - first:
+      213: -8706429541589351556
+    second: EmberFox_Skill_8
+  - first:
+      213: 553314828497776939
+    second: EmberFox_Skill_9
+  - first:
+      213: 8417356925762512396
+    second: EmberFox_Skill_10
+  - first:
+      213: 1454985663705775791
+    second: EmberFox_Skill_11
+  - first:
+      213: -4607013655491768724
+    second: EmberFox_Skill_12
+  - first:
+      213: 7492876474050233032
+    second: EmberFox_Skill_13
+  - first:
+      213: -3545525227640209907
+    second: EmberFox_Skill_14
+  - first:
+      213: 8942785995002690402
+    second: EmberFox_Skill_15
+  - first:
+      213: 1088077655113342631
+    second: EmberFox_Skill_16
+  - first:
+      213: -907948632577950833
+    second: EmberFox_Skill_17
+  - first:
+      213: 7686807883064327751
+    second: EmberFox_Skill_18
+  - first:
+      213: -1568723520011881973
+    second: EmberFox_Skill_19
+  - first:
+      213: 679373078505710867
+    second: EmberFox_Skill_20
+  - first:
+      213: -1673903438002104914
+    second: EmberFox_Skill_21
+  - first:
+      213: 8594981954124794275
+    second: EmberFox_Skill_22
+  - first:
+      213: -6765606794712456829
+    second: EmberFox_Skill_23
+  - first:
+      213: 8788305096611880416
+    second: EmberFox_Skill_24
+  - first:
+      213: -1734711168820147109
+    second: EmberFox_Skill_25
+  - first:
+      213: -5950691423378021378
+    second: EmberFox_Skill_26
+  - first:
+      213: -1592094994596146017
+    second: EmberFox_Skill_27
+  - first:
+      213: -778721730407252817
+    second: EmberFox_Skill_28
+  - first:
+      213: -2541941428681915892
+    second: EmberFox_Skill_29
+  - first:
+      213: -337167918276580167
+    second: EmberFox_Skill_30
+  - first:
+      213: -6006482987737483575
+    second: EmberFox_Skill_31
+  - first:
+      213: -6013141524658840907
+    second: EmberFox_Skill_32
+  - first:
+      213: 6117184092438959964
+    second: EmberFox_Skill_33
+  - first:
+      213: 8201252829228849574
+    second: EmberFox_Skill_34
+  - first:
+      213: -2604131605373983571
+    second: EmberFox_Skill_35
+  - first:
+      213: 5863684248199660992
+    second: EmberFox_Skill_36
+  - first:
+      213: 8241770531042445812
+    second: EmberFox_Skill_37
+  - first:
+      213: 5856502720559005983
+    second: EmberFox_Skill_38
+  - first:
+      213: 8054456176861537014
+    second: EmberFox_Skill_39
+  - first:
+      213: 3900134685170389349
+    second: EmberFox_Skill_40
+  - first:
+      213: -7405084379377126908
+    second: EmberFox_Skill_41
+  - first:
+      213: -7929264713235607513
+    second: EmberFox_Skill_42
+  - first:
+      213: 6792199171576505224
+    second: EmberFox_Skill_43
+  - first:
+      213: -4730364392845209903
+    second: EmberFox_Skill_44
+  - first:
+      213: -5199367862055350213
+    second: EmberFox_Skill_45
+  - first:
+      213: 706286220344956095
+    second: EmberFox_Skill_46
+  - first:
+      213: 8810314043941050204
+    second: EmberFox_Skill_47
+  - first:
+      213: 1154091246709166371
+    second: EmberFox_Skill_48
+  - first:
+      213: 3408850628797900937
+    second: EmberFox_Skill_49
+  - first:
+      213: 9084268447296905612
+    second: EmberFox_Skill_50
+  - first:
+      213: -2880265420745857117
+    second: EmberFox_Skill_51
+  - first:
+      213: -742115360036711746
+    second: EmberFox_Skill_52
+  - first:
+      213: 5698589147796843369
+    second: EmberFox_Skill_53
+  - first:
+      213: 1080080939553968068
+    second: EmberFox_Skill_54
+  - first:
+      213: 4026672103815122630
+    second: EmberFox_Skill_55
+  - first:
+      213: 6956163072342865432
+    second: EmberFox_Skill_56
+  - first:
+      213: 710567544722273899
+    second: EmberFox_Skill_57
+  - first:
+      213: 1565033289511481642
+    second: EmberFox_Skill_58
+  - first:
+      213: -1442215841991033541
+    second: EmberFox_Skill_59
+  - first:
+      213: 3085690021459959511
+    second: EmberFox_Skill_60
+  - first:
+      213: -7897390588984526202
+    second: EmberFox_Skill_61
+  - first:
+      213: 7748462639327969200
+    second: EmberFox_Skill_62
+  - first:
+      213: 2505960830382501902
+    second: EmberFox_Skill_63
+  - first:
+      213: -1523662303559971968
+    second: EmberFox_Skill_64
+  - first:
+      213: 3308967254729754552
+    second: EmberFox_Skill_65
+  - first:
+      213: 1729587849802785853
+    second: EmberFox_Skill_66
+  - first:
+      213: 7622780435263461472
+    second: EmberFox_Skill_67
+  - first:
+      213: 5835650732072358642
+    second: EmberFox_Skill_68
+  - first:
+      213: -2240424336789723753
+    second: EmberFox_Skill_69
+  - first:
+      213: -6961839954537770322
+    second: EmberFox_Skill_70
+  - first:
+      213: 3958052351369371481
+    second: EmberFox_Skill_71
+  - first:
+      213: -4814871330762197080
+    second: EmberFox_Skill_72
+  - first:
+      213: -3018034488423927786
+    second: EmberFox_Skill_73
+  - first:
+      213: -2802567677816885661
+    second: EmberFox_Skill_74
+  - first:
+      213: 7716925713572267643
+    second: EmberFox_Skill_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EmberFox_Skill_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf124fdab2abe740bc11c741199380a
+      internalID: -211566662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab01df6bcaab05948b195f0b1c0ddfd7
+      internalID: -2121938905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafaef7c9214ebf4d80caa9df3f11e41
+      internalID: -1025964200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef387804049a6d4183e1a2585e2cad2
+      internalID: 1191349458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7210949c67c4d4da471a246e04984b
+      internalID: 945271817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd571ef92c0104c8c310b565d304fe
+      internalID: 683803028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd8769055f0ac74784ef40ce4275229
+      internalID: 193104759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1554ee5158069046896b18246d43e27
+      internalID: 1564643912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d21592e7b4874096820ce53ac9393
+      internalID: -216963667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64551781031314ba53ddff7092cfc3
+      internalID: 2042027262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e53ac9955e084dbecf326ca278983
+      internalID: 1392840145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0859456f09eb3dc4baa4494b4e15c250
+      internalID: -772413349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccde1f0f7f7f4640a5297cb9d46d01d
+      internalID: -216561283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374e0ce4a1a5b945bff934aeb4a7906
+      internalID: 1180214201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647b38b4179bba42a9556c48733f863
+      internalID: -2059932204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e99326efb5bb149ac5b34108e8a174
+      internalID: 2161142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925bb573bf128f64383063a191f49a7c
+      internalID: 1959025544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa4fb5b696e567419bba541109f65b9
+      internalID: -1309677229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf2e85e67e07f149b97456a23201bb6
+      internalID: -1515833239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1080f4762590b34b81cd27731b78dde
+      internalID: -1411448725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae1d56f1b1d7b94284668ae3fda7d73
+      internalID: -970215635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccdb983971d9dc4ba00d4634d86c8f3
+      internalID: 545380246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1711c09737a3d249afedb48a8c4eed6
+      internalID: -1940626462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0228892950f37408cc992411ea0bff
+      internalID: 2090817297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82d88cc380e08c42a101fea6bc5dfc1
+      internalID: 808504139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423ef69423ba20f46bd7b588cc262551
+      internalID: 1202778100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1031011ed1a7b66409ae4a7053b4e1b7
+      internalID: 1234299893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b0630281f05447be9c73d143c4655
+      internalID: 594547944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bddac39c7814a499ebf8abab21a1d6
+      internalID: 1296748434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87b3775bd5c9964a84deb1bbf4ba73c
+      internalID: 397128632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a459b21a585e5f4195df5b1c189b43f
+      internalID: 650237396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmberFox_Skill_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f731e3f2113fc5647a036d28b56970da
+      internalID: 1812398818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43ce2e893e90c164e908ab6a6cc00199
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EmberFox_Skill_E_0: -211566662
+      EmberFox_Skill_E_1: -2121938905
+      EmberFox_Skill_E_2: -1025964200
+      EmberFox_Skill_E_3: 1191349458
+      EmberFox_Skill_NE_0: 945271817
+      EmberFox_Skill_NE_1: 683803028
+      EmberFox_Skill_NE_2: 193104759
+      EmberFox_Skill_NE_3: 1564643912
+      EmberFox_Skill_NW_0: -216561283
+      EmberFox_Skill_NW_1: 1180214201
+      EmberFox_Skill_NW_2: -2059932204
+      EmberFox_Skill_NW_3: 2161142
+      EmberFox_Skill_N_0: -216963667
+      EmberFox_Skill_N_1: 2042027262
+      EmberFox_Skill_N_2: 1392840145
+      EmberFox_Skill_N_3: -772413349
+      EmberFox_Skill_SE_0: 1296748434
+      EmberFox_Skill_SE_1: 397128632
+      EmberFox_Skill_SE_2: 650237396
+      EmberFox_Skill_SE_3: 1812398818
+      EmberFox_Skill_SW_0: -970215635
+      EmberFox_Skill_SW_1: 545380246
+      EmberFox_Skill_SW_2: -1940626462
+      EmberFox_Skill_SW_3: 2090817297
+      EmberFox_Skill_S_0: 808504139
+      EmberFox_Skill_S_1: 1202778100
+      EmberFox_Skill_S_2: 1234299893
+      EmberFox_Skill_S_3: 594547944
+      EmberFox_Skill_W_0: 1959025544
+      EmberFox_Skill_W_1: -1309677229
+      EmberFox_Skill_W_2: -1515833239
+      EmberFox_Skill_W_3: -1411448725
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

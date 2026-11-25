@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 31d11289cdf0cc94c95466403d323fff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2109883780714848899
+    second: TideOtter_Attack_0
+  - first:
+      213: 3003570539868556496
+    second: TideOtter_Attack_1
+  - first:
+      213: -8925519599243244568
+    second: TideOtter_Attack_2
+  - first:
+      213: 7872063322546304150
+    second: TideOtter_Attack_3
+  - first:
+      213: 6042524833631746576
+    second: TideOtter_Attack_4
+  - first:
+      213: 4683831914896803299
+    second: TideOtter_Attack_5
+  - first:
+      213: -510883464672844165
+    second: TideOtter_Attack_6
+  - first:
+      213: -3631107269628207196
+    second: TideOtter_Attack_7
+  - first:
+      213: -2197610035603820244
+    second: TideOtter_Attack_8
+  - first:
+      213: 7762096684825365150
+    second: TideOtter_Attack_9
+  - first:
+      213: -7268270411951802174
+    second: TideOtter_Attack_10
+  - first:
+      213: -7978485598533376634
+    second: TideOtter_Attack_11
+  - first:
+      213: -7907702165775975473
+    second: TideOtter_Attack_12
+  - first:
+      213: -7310556975855252600
+    second: TideOtter_Attack_13
+  - first:
+      213: 7450740028519393496
+    second: TideOtter_Attack_14
+  - first:
+      213: 862661137885909927
+    second: TideOtter_Attack_15
+  - first:
+      213: -1743636125859038174
+    second: TideOtter_Attack_16
+  - first:
+      213: -9046548722478072069
+    second: TideOtter_Attack_17
+  - first:
+      213: 6883667724913914792
+    second: TideOtter_Attack_18
+  - first:
+      213: -1045291089529898256
+    second: TideOtter_Attack_19
+  - first:
+      213: -216656048054709571
+    second: TideOtter_Attack_20
+  - first:
+      213: 5730456106128069535
+    second: TideOtter_Attack_21
+  - first:
+      213: 5395139387818594919
+    second: TideOtter_Attack_22
+  - first:
+      213: -9205425964212715832
+    second: TideOtter_Attack_23
+  - first:
+      213: 4417246114626469147
+    second: TideOtter_Attack_24
+  - first:
+      213: -2735818046577564990
+    second: TideOtter_Attack_25
+  - first:
+      213: -7398841945373763530
+    second: TideOtter_Attack_26
+  - first:
+      213: 8384233896553774440
+    second: TideOtter_Attack_27
+  - first:
+      213: -6074366110100899715
+    second: TideOtter_Attack_28
+  - first:
+      213: 2444508858879904206
+    second: TideOtter_Attack_29
+  - first:
+      213: -8275805299564589327
+    second: TideOtter_Attack_30
+  - first:
+      213: -8043835669389334118
+    second: TideOtter_Attack_31
+  - first:
+      213: 649999030620418613
+    second: TideOtter_Attack_32
+  - first:
+      213: 2929607420253762734
+    second: TideOtter_Attack_33
+  - first:
+      213: 4507351670764151674
+    second: TideOtter_Attack_34
+  - first:
+      213: 2686397281811725184
+    second: TideOtter_Attack_35
+  - first:
+      213: -1150825377113783357
+    second: TideOtter_Attack_36
+  - first:
+      213: -7607537178571563471
+    second: TideOtter_Attack_37
+  - first:
+      213: 1402969706840072407
+    second: TideOtter_Attack_38
+  - first:
+      213: 3733155019259660666
+    second: TideOtter_Attack_39
+  - first:
+      213: -7898642579010120085
+    second: TideOtter_Attack_40
+  - first:
+      213: -7973569326497390117
+    second: TideOtter_Attack_41
+  - first:
+      213: -3736717961234166417
+    second: TideOtter_Attack_42
+  - first:
+      213: -2530168734974302191
+    second: TideOtter_Attack_43
+  - first:
+      213: 2212872769887680531
+    second: TideOtter_Attack_44
+  - first:
+      213: -6441564618128864315
+    second: TideOtter_Attack_45
+  - first:
+      213: 7923711040289123054
+    second: TideOtter_Attack_46
+  - first:
+      213: 1741619654185315263
+    second: TideOtter_Attack_47
+  - first:
+      213: 6533762014861765417
+    second: TideOtter_Attack_48
+  - first:
+      213: 7489318109686072929
+    second: TideOtter_Attack_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TideOtter_Attack_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff78f8fcdb2859428f8738b8f8cc0e7
+      internalID: 1858254613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e5725830cefaa468c6a70708e773d6
+      internalID: -1498692088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c6c92280560b342a1ec199ce957192
+      internalID: 1627698576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d0c47e383e954b999381d93f59364
+      internalID: 1951720026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fca9e77173059468e6e3e3c4faad57
+      internalID: -1367493240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb4822d73f1be0488a2d61c1cff6d65
+      internalID: 468848683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f838556bd19214c48a0c0767e95a3a0c
+      internalID: -1616446584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3459d0808d7c0e4080ce36336980811
+      internalID: 1832278370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e408f522d9540b4e94173e9160b0c32
+      internalID: 214733652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a61246319f86c429670dd384bd3e2e
+      internalID: -1385790761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838316411ac7d3842945b6acf9af9845
+      internalID: -1533269804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2b15db112be4f4e8b2538e9184e5ff
+      internalID: 2040336666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369ed2ebf0b86b4e909fc047ff6c620
+      internalID: -317905049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b385d714358a1a45836ff24f2625ef0
+      internalID: 1730832146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b789d22ad3d6ceb46aaedf0d08245ddc
+      internalID: 1992684940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc068f461411e64d8c1dda652b18189
+      internalID: 386005833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e91047ea49fbc408430094ab21a3fd
+      internalID: -1963109342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee71fab6f1c6474f98990b41f272935
+      internalID: 1788413776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f10d208ad79bd4c8f46ffe98de02e6
+      internalID: -255310265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649a7a4f230e69541b8c47b368b566ae
+      internalID: -392131297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b985d4dbcead144a5e6473f7c24a18
+      internalID: -1011642063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85df5454125caa9479007d924a99a39e
+      internalID: -1524616754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dfb9149be4bad4daf724b84e74696c
+      internalID: -1008754835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7833908c1fdea4149801763914c79da9
+      internalID: -234010898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb0729bcbf9edf40845ba333fe5c748
+      internalID: 1452347699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a1172ce99e9b5478bac4ad06f8b827
+      internalID: 166953355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86af4056a2c1e46a0610ddbbd78c73
+      internalID: 159486558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6397d4e5847f3b54ab9afd8ce5329ba5
+      internalID: 86583210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76a72f62403cff4bb6ee7459ae70fa7
+      internalID: 1511331978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad779942ad2be545b9199fd07da89d7
+      internalID: 361029978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b0e0ebfe9391409cbc872d9a9f387
+      internalID: 287014651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TideOtter_Attack_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493c3f6d94291d44c82b7c88a99e1187
+      internalID: -152932293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e5dabc04fc684254ca62d4ee385168c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TideOtter_Attack_E_0: 1858254613
+      TideOtter_Attack_E_1: -1498692088
+      TideOtter_Attack_E_2: 1627698576
+      TideOtter_Attack_E_3: 1951720026
+      TideOtter_Attack_NE_0: -1367493240
+      TideOtter_Attack_NE_1: 468848683
+      TideOtter_Attack_NE_2: -1616446584
+      TideOtter_Attack_NE_3: 1832278370
+      TideOtter_Attack_NW_0: -317905049
+      TideOtter_Attack_NW_1: 1730832146
+      TideOtter_Attack_NW_2: 1992684940
+      TideOtter_Attack_NW_3: 386005833
+      TideOtter_Attack_N_0: 214733652
+      TideOtter_Attack_N_1: -1385790761
+      TideOtter_Attack_N_2: -1533269804
+      TideOtter_Attack_N_3: 2040336666
+      TideOtter_Attack_SE_0: 1511331978
+      TideOtter_Attack_SE_1: 361029978
+      TideOtter_Attack_SE_2: 287014651
+      TideOtter_Attack_SE_3: -152932293
+      TideOtter_Attack_SW_0: -1011642063
+      TideOtter_Attack_SW_1: -1524616754
+      TideOtter_Attack_SW_2: -1008754835
+      TideOtter_Attack_SW_3: -234010898
+      TideOtter_Attack_S_0: 1452347699
+      TideOtter_Attack_S_1: 166953355
+      TideOtter_Attack_S_2: 159486558
+      TideOtter_Attack_S_3: 86583210
+      TideOtter_Attack_W_0: -1963109342
+      TideOtter_Attack_W_1: 1788413776
+      TideOtter_Attack_W_2: -255310265
+      TideOtter_Attack_W_3: -392131297
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

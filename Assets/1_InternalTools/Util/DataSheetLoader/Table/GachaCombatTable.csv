@@ -1,0 +1,43 @@
+﻿Key,Values,Description
+Battle.SummonSeconds,1,소환 대기 초
+Battle.DodgeCooldown,3,회피 재사용 초
+Battle.DodgeInvulnerability,0.28,회피 무적 초
+Battle.DashSeconds,0.18,회피 이동 초
+Battle.DashSpeed,8,회피 이동 속도
+Battle.SkillEnergyCost,25,스킬 사용 기력
+Battle.FighterRadius,0.42,크리쳐 전투 충돌 반지름
+Battle.ProjectileSpawnOffset,0.5,투사체 생성 앞쪽 거리
+Battle.SlowSeconds,2.5,빙결창/광대 감속 지속 초
+Battle.SlowMoveRatio,0.6,감속 시 이동 속도 배율
+Battle.BurnSeconds,4,불씨/부싯돌 연소 지속 초
+Battle.BurnDamage,3,연소 1회 피해
+Battle.BurnInterval,1,연소 피해 간격 초
+Battle.ResistanceScale,100,저항 피해 배율 = 이 값 / (이 값 + 저항)
+Battle.GuardReductionCap,95,가드 피해 감소 상한 %
+Stats.CriticalChance,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.CriticalDamageBonus,50,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.HitChance,100,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.DodgeChance,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.GuardChance,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.GuardDamageReduction,50,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.CooldownReduction,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.LifeSteal,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.DamageDealtBonus,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.DamageTakenBonus,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.PhysicalDamageDealtBonus,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.MagicDamageDealtBonus,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.PhysicalResistance,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.MagicResistance,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.HealthPercentageRegeneration,0,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.MaxEnergy,100,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+Stats.EnergyRegeneration,5,모든 크리쳐의 공통 기본 능력치; % 능력치는 0~100 단위
+AI.PreferredRangeRatio,0.62,선호 거리/기본 사거리
+AI.RetreatRangeRatio,0.58,후퇴 시작 거리/선호 거리
+AI.RetreatSpeed,0.75,후퇴 이동 배율
+AI.StrafeFrequency,1.4,횡이동 주기 속도
+AI.StrafeStrength,0.23,횡이동 세기
+AI.SkillRangeRatio,0.85,스킬 사용 거리/기본 사거리
+AI.HealThreshold,0.75,물결수달이 치유를 시도할 생명력 비율
+AI.ThreatDistanceSquared,1.2,회피를 시도하는 투사체 거리의 제곱
+Shop.MoveSpeed,4.2,가챠샵 트레이너 이동 속도
+Shop.InteractionRange,1.7,가챠 머신 상호작용 거리

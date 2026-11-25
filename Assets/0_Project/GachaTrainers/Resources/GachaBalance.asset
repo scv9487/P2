@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efb7a81026234ba0b4f9183653956106, type: 3}
+  m_Name: GachaBalance
+  m_EditorClassIdentifier: 
+  _tables:
+  - {fileID: 4900000, guid: 8312f96d115648d8bcd123868c238779, type: 3}
+  - {fileID: 4900000, guid: 91757b36d0da49189ffd022d8342bfb0, type: 3}
+  - {fileID: 4900000, guid: 179cd83d4ac44628bc9ecf8c59ebe63c, type: 3}
+  - {fileID: 4900000, guid: 9be43e2fbf4245cca69bdc0a536f2b17, type: 3}
+  - {fileID: 4900000, guid: 60448954a3204d18a1755649b2e6c2e3, type: 3}

@@ -1,0 +1,1060 @@
+fileFormatVersion: 2
+guid: a875a7766b7c7e94799c7460bfc82c1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7979222957525518546
+    second: MossTurtle_Hit_0
+  - first:
+      213: 1394421904221682812
+    second: MossTurtle_Hit_1
+  - first:
+      213: -8087416409944235671
+    second: MossTurtle_Hit_2
+  - first:
+      213: -5516284475378325873
+    second: MossTurtle_Hit_3
+  - first:
+      213: 7275262964816600243
+    second: MossTurtle_Hit_4
+  - first:
+      213: 1256778586118077371
+    second: MossTurtle_Hit_5
+  - first:
+      213: -7703835435499371619
+    second: MossTurtle_Hit_6
+  - first:
+      213: -5842699655495784079
+    second: MossTurtle_Hit_7
+  - first:
+      213: 6414626617083272047
+    second: MossTurtle_Hit_8
+  - first:
+      213: 674788788731746440
+    second: MossTurtle_Hit_9
+  - first:
+      213: -196826337964904038
+    second: MossTurtle_Hit_10
+  - first:
+      213: 1772697176916370986
+    second: MossTurtle_Hit_11
+  - first:
+      213: 6203230174791491791
+    second: MossTurtle_Hit_12
+  - first:
+      213: -689662524832029755
+    second: MossTurtle_Hit_13
+  - first:
+      213: -975727501488805295
+    second: MossTurtle_Hit_14
+  - first:
+      213: -8321617934699858528
+    second: MossTurtle_Hit_15
+  - first:
+      213: 6520319516605746499
+    second: MossTurtle_Hit_16
+  - first:
+      213: -8088842929268962104
+    second: MossTurtle_Hit_17
+  - first:
+      213: -1007037423140268034
+    second: MossTurtle_Hit_18
+  - first:
+      213: -8983071434928256102
+    second: MossTurtle_Hit_19
+  - first:
+      213: 7348383482573873875
+    second: MossTurtle_Hit_20
+  - first:
+      213: 2199321449318568406
+    second: MossTurtle_Hit_21
+  - first:
+      213: 3948668291100142642
+    second: MossTurtle_Hit_22
+  - first:
+      213: 1875303538573029074
+    second: MossTurtle_Hit_23
+  - first:
+      213: -5909299899300876934
+    second: MossTurtle_Hit_24
+  - first:
+      213: 8418908472739185961
+    second: MossTurtle_Hit_25
+  - first:
+      213: 1551025561478741408
+    second: MossTurtle_Hit_26
+  - first:
+      213: -3832000043725491308
+    second: MossTurtle_Hit_27
+  - first:
+      213: 2488541500894328196
+    second: MossTurtle_Hit_28
+  - first:
+      213: 97298603776946593
+    second: MossTurtle_Hit_29
+  - first:
+      213: 6886202686299988178
+    second: MossTurtle_Hit_30
+  - first:
+      213: 2141955697731350302
+    second: MossTurtle_Hit_31
+  - first:
+      213: -552686743569819107
+    second: MossTurtle_Hit_32
+  - first:
+      213: 4801825646990255022
+    second: MossTurtle_Hit_33
+  - first:
+      213: -4305124176107706868
+    second: MossTurtle_Hit_34
+  - first:
+      213: 2895496421801329391
+    second: MossTurtle_Hit_35
+  - first:
+      213: 173837547788674572
+    second: MossTurtle_Hit_36
+  - first:
+      213: 2319281739179606227
+    second: MossTurtle_Hit_37
+  - first:
+      213: -3060541221855917325
+    second: MossTurtle_Hit_38
+  - first:
+      213: -3480903299957182061
+    second: MossTurtle_Hit_39
+  - first:
+      213: -5500394703896560231
+    second: MossTurtle_Hit_40
+  - first:
+      213: -8850584150857403696
+    second: MossTurtle_Hit_41
+  - first:
+      213: 1412032623507757231
+    second: MossTurtle_Hit_42
+  - first:
+      213: -2919037092630347903
+    second: MossTurtle_Hit_43
+  - first:
+      213: 1509702651262991362
+    second: MossTurtle_Hit_44
+  - first:
+      213: 3512683054797874721
+    second: MossTurtle_Hit_45
+  - first:
+      213: -5774068748364425780
+    second: MossTurtle_Hit_46
+  - first:
+      213: -4491103580739678227
+    second: MossTurtle_Hit_47
+  - first:
+      213: 1351013587048015560
+    second: MossTurtle_Hit_48
+  - first:
+      213: 1761508666897851470
+    second: MossTurtle_Hit_49
+  - first:
+      213: -6676923807602697098
+    second: MossTurtle_Hit_50
+  - first:
+      213: -5176099275119910214
+    second: MossTurtle_Hit_51
+  - first:
+      213: 5100537863618308306
+    second: MossTurtle_Hit_52
+  - first:
+      213: -8771207653933591044
+    second: MossTurtle_Hit_53
+  - first:
+      213: 5844631163308113546
+    second: MossTurtle_Hit_54
+  - first:
+      213: -2023803546263417591
+    second: MossTurtle_Hit_55
+  - first:
+      213: -6655033133115834806
+    second: MossTurtle_Hit_56
+  - first:
+      213: 2380147944288942989
+    second: MossTurtle_Hit_57
+  - first:
+      213: 1317225432057165820
+    second: MossTurtle_Hit_58
+  - first:
+      213: 1957716349888695585
+    second: MossTurtle_Hit_59
+  - first:
+      213: -1466865336060981287
+    second: MossTurtle_Hit_60
+  - first:
+      213: -1013360024629192991
+    second: MossTurtle_Hit_61
+  - first:
+      213: -1995817658922900596
+    second: MossTurtle_Hit_62
+  - first:
+      213: 4479568277278613640
+    second: MossTurtle_Hit_63
+  - first:
+      213: 2766247918956870766
+    second: MossTurtle_Hit_64
+  - first:
+      213: 8717442169464978561
+    second: MossTurtle_Hit_65
+  - first:
+      213: -4474036069564837178
+    second: MossTurtle_Hit_66
+  - first:
+      213: 8365490654865082995
+    second: MossTurtle_Hit_67
+  - first:
+      213: 6424891954346015469
+    second: MossTurtle_Hit_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MossTurtle_Hit_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7837cdaf152a2854688e864a79e31ece
+      internalID: -925100637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07d1fa79163bd488d23b4af2a94b63
+      internalID: 1752707723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d37094a60d81f44b4f79d9400d1dce
+      internalID: -1040281951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064dd5705a9f45447af18d73fe5c3c3d
+      internalID: 1422399873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac26e8f0b503249804afe8eab90525
+      internalID: 503866803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0440ed5c9754d14a91b994ccfec50d6
+      internalID: 1439177299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d861f37b39ae949a3b5857d160c463
+      internalID: -1198537012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac09828bb01224e8efa0347ee5f1f4
+      internalID: 1933041718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3831ca718fc46a142b54ef77741b4080
+      internalID: -1561794262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51a39b6256bc2544b280e1676a0dfb2
+      internalID: 521714142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d802fb5c103194d850d0e680781997
+      internalID: 939300153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2711661c1fd94924fac90376c8d375c2
+      internalID: 1065988124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18227e7f06af140439775223e343f2de
+      internalID: 1336547564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8d05399017f6841ae874faffbc2d5d
+      internalID: 2002518692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac82de5c0ec9a1b4d88126c35e1474cf
+      internalID: 819303982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cab24566ca944c87a97dbbb81aae1
+      internalID: -1985610149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d8baef58ca2644db8a6d8058cdd2e0
+      internalID: 848731451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1309215de423c428052dd2f8ba9fe7
+      internalID: -1485374183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf57179de16b934786cf44009342499
+      internalID: -22262124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86702eaab1031845a85b89df6116f91
+      internalID: -890116411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f3decf76387f4ea92ccb4ff5d7cbe
+      internalID: -893258169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce7367d1e0db8c41984e1c1dbc9801b
+      internalID: -291437263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02bdadac89d88f41b3b69b91724fd0b
+      internalID: 1177830639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232d277fe082fdf45b96dda1c4295ca1
+      internalID: -1693585983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e772b12b79c4f4498c354cf476e0cc1
+      internalID: 254695925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7265c5ef7944ff341a011f4bd007680f
+      internalID: -744151244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd6f9f6f45dc394c98a4e9f4b57190a
+      internalID: -937036288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be06571f052bed644ac2fa99ae2b2901
+      internalID: 1515495489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7187d43611528e42940aad9a6a11c44
+      internalID: 927492791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e572abf9d68f1448aef482fa7a1746
+      internalID: 1510260775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e7f15273e0e744882c91b201f3354
+      internalID: -351271271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MossTurtle_Hit_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bff1b06176b0354b9f8364cfbccaf3c
+      internalID: 1754707044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cb442c7bfa93b44dae281b0df02abf5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MossTurtle_Hit_E_0: -925100637
+      MossTurtle_Hit_E_1: 1752707723
+      MossTurtle_Hit_E_2: -1040281951
+      MossTurtle_Hit_E_3: 1422399873
+      MossTurtle_Hit_NE_0: 503866803
+      MossTurtle_Hit_NE_1: 1439177299
+      MossTurtle_Hit_NE_2: -1198537012
+      MossTurtle_Hit_NE_3: 1933041718
+      MossTurtle_Hit_NW_0: 1336547564
+      MossTurtle_Hit_NW_1: 2002518692
+      MossTurtle_Hit_NW_2: 819303982
+      MossTurtle_Hit_NW_3: -1985610149
+      MossTurtle_Hit_N_0: -1561794262
+      MossTurtle_Hit_N_1: 521714142
+      MossTurtle_Hit_N_2: 939300153
+      MossTurtle_Hit_N_3: 1065988124
+      MossTurtle_Hit_SE_0: 927492791
+      MossTurtle_Hit_SE_1: 1510260775
+      MossTurtle_Hit_SE_2: -351271271
+      MossTurtle_Hit_SE_3: 1754707044
+      MossTurtle_Hit_SW_0: -893258169
+      MossTurtle_Hit_SW_1: -291437263
+      MossTurtle_Hit_SW_2: 1177830639
+      MossTurtle_Hit_SW_3: -1693585983
+      MossTurtle_Hit_S_0: 254695925
+      MossTurtle_Hit_S_1: -744151244
+      MossTurtle_Hit_S_2: -937036288
+      MossTurtle_Hit_S_3: 1515495489
+      MossTurtle_Hit_W_0: 848731451
+      MossTurtle_Hit_W_1: -1485374183
+      MossTurtle_Hit_W_2: -22262124
+      MossTurtle_Hit_W_3: -890116411
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

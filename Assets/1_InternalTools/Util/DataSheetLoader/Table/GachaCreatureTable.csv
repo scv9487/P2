@@ -1,0 +1,84 @@
+﻿Key,Values,Description
+Creature.EmberFox.Health,85,잿불여우 최대 생명력
+Creature.EmberFox.PhysicalAttack,18,잿불여우 물리 공격력
+Creature.EmberFox.AttackSpeed,0.9,잿불여우 기본 공격 횟수/초
+Creature.EmberFox.MoveSpeed,3.5,잿불여우 이동 속도
+Creature.EmberFox.BasicRange,7,잿불여우 기본 공격 사거리
+Creature.EmberFox.ProjectileSpeed,8,잿불여우 기본 투사체 속도
+Creature.EmberFox.SkillCooldown,6,잿불여우 스킬 재사용 초
+Creature.EmberFox.BasicRadius,0.16,잿불여우 기본 투사체 반지름
+Creature.EmberFox.SkillDamage,1.15,잿불여우 스킬 마법 공격 배율
+Creature.EmberFox.SkillRadius,0.24,잿불여우 스킬 투사체 반지름
+Creature.EmberFox.SkillSpeedScale,1,잿불여우 스킬 투사체 속도 배율
+Creature.EmberFox.SkillRangeScale,1,잿불여우 스킬 사거리 배율
+Creature.EmberFox.MagicAttack,18,잿불여우 마법 공격력
+Creature.MossTurtle.Health,150,이끼거북 최대 생명력
+Creature.MossTurtle.PhysicalAttack,9,이끼거북 물리 공격력
+Creature.MossTurtle.AttackSpeed,0.7,이끼거북 기본 공격 횟수/초
+Creature.MossTurtle.MoveSpeed,2.7,이끼거북 이동 속도
+Creature.MossTurtle.BasicRange,3.1,이끼거북 기본 공격 사거리
+Creature.MossTurtle.ProjectileSpeed,6,이끼거북 기본 투사체 속도
+Creature.MossTurtle.SkillCooldown,8,이끼거북 스킬 재사용 초
+Creature.MossTurtle.BasicRadius,0.34,이끼거북 기본 투사체 반지름
+Creature.MossTurtle.SkillDamage,2,이끼거북 스킬 마법 공격 배율
+Creature.MossTurtle.SkillRadius,0.72,이끼거북 스킬 투사체 반지름
+Creature.MossTurtle.SkillSpeedScale,1.2,이끼거북 스킬 투사체 속도 배율
+Creature.MossTurtle.SkillRangeScale,1.5,이끼거북 스킬 사거리 배율
+Creature.MossTurtle.MagicAttack,9,이끼거북 마법 공격력
+Creature.VoltRabbit.Health,75,번개토끼 최대 생명력
+Creature.VoltRabbit.PhysicalAttack,10,번개토끼 물리 공격력
+Creature.VoltRabbit.AttackSpeed,1.5,번개토끼 기본 공격 횟수/초
+Creature.VoltRabbit.MoveSpeed,4.2,번개토끼 이동 속도
+Creature.VoltRabbit.BasicRange,6,번개토끼 기본 공격 사거리
+Creature.VoltRabbit.ProjectileSpeed,11,번개토끼 기본 투사체 속도
+Creature.VoltRabbit.SkillCooldown,5,번개토끼 스킬 재사용 초
+Creature.VoltRabbit.BasicRadius,0.16,번개토끼 기본 투사체 반지름
+Creature.VoltRabbit.SkillDamage,2.3,번개토끼 스킬 마법 공격 배율
+Creature.VoltRabbit.SkillRadius,0.25,번개토끼 스킬 투사체 반지름
+Creature.VoltRabbit.SkillSpeedScale,1.35,번개토끼 스킬 투사체 속도 배율
+Creature.VoltRabbit.SkillRangeScale,1.15,번개토끼 스킬 사거리 배율
+Creature.VoltRabbit.MagicAttack,10,번개토끼 마법 공격력
+Creature.FrostOwl.Health,90,서리올빼미 최대 생명력
+Creature.FrostOwl.PhysicalAttack,13,서리올빼미 물리 공격력
+Creature.FrostOwl.AttackSpeed,0.85,서리올빼미 기본 공격 횟수/초
+Creature.FrostOwl.MoveSpeed,3.2,서리올빼미 이동 속도
+Creature.FrostOwl.BasicRange,7.5,서리올빼미 기본 공격 사거리
+Creature.FrostOwl.ProjectileSpeed,9,서리올빼미 기본 투사체 속도
+Creature.FrostOwl.SkillCooldown,7,서리올빼미 스킬 재사용 초
+Creature.FrostOwl.BasicRadius,0.16,서리올빼미 기본 투사체 반지름
+Creature.FrostOwl.SkillDamage,1.6,서리올빼미 스킬 마법 공격 배율
+Creature.FrostOwl.SkillRadius,0.24,서리올빼미 스킬 투사체 반지름
+Creature.FrostOwl.SkillSpeedScale,1.15,서리올빼미 스킬 투사체 속도 배율
+Creature.FrostOwl.SkillRangeScale,1.1,서리올빼미 스킬 사거리 배율
+Creature.FrostOwl.MagicAttack,13,서리올빼미 마법 공격력
+Creature.TideOtter.Health,105,물결수달 최대 생명력
+Creature.TideOtter.PhysicalAttack,12,물결수달 물리 공격력
+Creature.TideOtter.AttackSpeed,1.05,물결수달 기본 공격 횟수/초
+Creature.TideOtter.MoveSpeed,3.6,물결수달 이동 속도
+Creature.TideOtter.BasicRange,5.5,물결수달 기본 공격 사거리
+Creature.TideOtter.ProjectileSpeed,8,물결수달 기본 투사체 속도
+Creature.TideOtter.SkillCooldown,9,물결수달 스킬 재사용 초
+Creature.TideOtter.BasicRadius,0.16,물결수달 기본 투사체 반지름
+Creature.TideOtter.SkillDamage,1.4,물결수달 스킬 마법 공격 배율
+Creature.TideOtter.SkillRadius,0.48,물결수달 스킬 투사체 반지름
+Creature.TideOtter.SkillSpeedScale,1,물결수달 스킬 투사체 속도 배율
+Creature.TideOtter.SkillRangeScale,1,물결수달 스킬 사거리 배율
+Creature.TideOtter.MagicAttack,12,물결수달 마법 공격력
+Creature.StoneBoar.Health,130,바위멧돼지 최대 생명력
+Creature.StoneBoar.PhysicalAttack,16,바위멧돼지 물리 공격력
+Creature.StoneBoar.AttackSpeed,0.65,바위멧돼지 기본 공격 횟수/초
+Creature.StoneBoar.MoveSpeed,2.9,바위멧돼지 이동 속도
+Creature.StoneBoar.BasicRange,4,바위멧돼지 기본 공격 사거리
+Creature.StoneBoar.ProjectileSpeed,7,바위멧돼지 기본 투사체 속도
+Creature.StoneBoar.SkillCooldown,7.5,바위멧돼지 스킬 재사용 초
+Creature.StoneBoar.BasicRadius,0.16,바위멧돼지 기본 투사체 반지름
+Creature.StoneBoar.SkillDamage,2.2,바위멧돼지 스킬 마법 공격 배율
+Creature.StoneBoar.SkillRadius,0.65,바위멧돼지 스킬 투사체 반지름
+Creature.StoneBoar.SkillSpeedScale,1.1,바위멧돼지 스킬 투사체 속도 배율
+Creature.StoneBoar.SkillRangeScale,1.2,바위멧돼지 스킬 사거리 배율
+Creature.StoneBoar.MagicAttack,16,바위멧돼지 마법 공격력
+Creature.EmberFox.SkillAngles,-15|0|15,세 갈래 불꽃 발사 각도 3개; 도 단위
+Creature.MossTurtle.ShieldSeconds,2.5,수호의 파동 피해 감소 지속 초
+Creature.MossTurtle.ShieldReduction,0.5,수호의 파동 받는 피해 감소 비율; 0.5=50%
+Creature.TideOtter.HealRatio,0.18,치유의 물결 최대 생명력 회복 비율
+Creature.StoneBoar.PushDistance,1.5,지각 파동 밀어내기 거리

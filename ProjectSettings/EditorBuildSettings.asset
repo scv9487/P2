@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/0_Project/GachaTrainers/Scenes/Title.unity
+    guid: 323badc860d3089408361da12b461681
+  - enabled: 1
+    path: Assets/0_Project/GachaTrainers/Scenes/GachaShop.unity
+    guid: 8c77c9e46b593c14892a6fb8050d4e20
+  - enabled: 1
+    path: Assets/0_Project/GachaTrainers/Scenes/Battle.unity
+    guid: a34db9f045a180b4ea96b1526b7f7281
+  - enabled: 1
     path: Assets/0_Project/2_Test/0_Scenes/2_Test.unity
     guid: 52741df8ca2d5c242b2875403ef45a31
   m_configObjects:

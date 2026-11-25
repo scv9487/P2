@@ -1,0 +1,29 @@
+﻿Key,Values,Description
+Evolution.RankGrowth,1|1.5|2.25,랭크 성장 배열
+Evolution.A.PhysicalMultiplier,1.2,진화 A.PhysicalMultiplier; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.A.MagicMultiplier,1.15,진화 A.MagicMultiplier; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.A.AttackSpeedMultiplier,1.15,진화 A.AttackSpeedMultiplier; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.A.DamageBonus,5,진화 A.DamageBonus; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.B.HealthMultiplier,1.2,진화 B.HealthMultiplier; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.B.PhysicalResistance,20,진화 B.PhysicalResistance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.B.MagicResistance,20,진화 B.MagicResistance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.B.GuardChance,15,진화 B.GuardChance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AA.CriticalChance,20,진화 AA.CriticalChance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AA.CriticalDamageBonus,75,진화 AA.CriticalDamageBonus; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AA.LifeSteal,12,진화 AA.LifeSteal; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AA.HitChance,115,진화 AA.HitChance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AA.DodgeChance,10,진화 AA.DodgeChance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AA.MoveMultiplier,1.15,진화 AA.MoveMultiplier; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AB.MagicMultiplier,1.3,진화 AB.MagicMultiplier; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AB.MagicDamageBonus,15,진화 AB.MagicDamageBonus; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AB.CooldownReduction,30,진화 AB.CooldownReduction; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AB.MaxEnergy,125,진화 AB.MaxEnergy; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.AB.EnergyRegeneration,8,진화 AB.EnergyRegeneration; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BA.PhysicalDamageBonus,20,진화 BA.PhysicalDamageBonus; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BA.GuardChance,15,진화 BA.GuardChance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BA.GuardReduction,65,진화 BA.GuardReduction; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BA.LifeSteal,15,진화 BA.LifeSteal; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BB.PhysicalResistance,25,진화 BB.PhysicalResistance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BB.MagicResistance,25,진화 BB.MagicResistance; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BB.DamageTakenBonus,-10,진화 BB.DamageTakenBonus; Multiplier는 배율; 확률/보너스는 % 단위
+Evolution.BB.HealthRegeneration,1.5,진화 BB.HealthRegeneration; Multiplier는 배율; 확률/보너스는 % 단위

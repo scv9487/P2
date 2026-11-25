@@ -49,7 +49,7 @@ namespace Util.Sheet
         }
 
         // 엑셀 CSV의 따옴표, 쉼표, 셀 내부 줄바꿈과 "" 이스케이프를 보존한다.
-        private static List<string[]> ReadRows(string csv)
+        internal static List<string[]> ReadRows(string csv, string tableName = "GameSystemTable.csv")
         {
             var rows = new List<string[]>();
             var cells = new List<string>();
@@ -63,7 +63,7 @@ namespace Util.Sheet
                 {
                     if (i == csv.Length)
                     {
-                        throw new FormatException("GameSystemTable.csv: 닫히지 않은 따옴표가 있습니다.");
+                        throw new FormatException($"{tableName}: 닫히지 않은 따옴표가 있습니다.");
                     }
                     if (c == '"')
                     {
@@ -107,7 +107,7 @@ namespace Util.Sheet
                 }
                 else if (closedQuote || c == '"')
                 {
-                    throw new FormatException("GameSystemTable.csv: 따옴표가 잘못된 위치에 있습니다.");
+                    throw new FormatException($"{tableName}: 따옴표가 잘못된 위치에 있습니다.");
                 }
                 else
                 {

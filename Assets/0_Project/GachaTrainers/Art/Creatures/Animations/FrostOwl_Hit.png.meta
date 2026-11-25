@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 2aa252ec0755e644cb853b0fbae256ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6068292082516246510
+    second: FrostOwl_Hit_0
+  - first:
+      213: -5179105360671695024
+    second: FrostOwl_Hit_1
+  - first:
+      213: -5924269793565875470
+    second: FrostOwl_Hit_2
+  - first:
+      213: 7789524555932915024
+    second: FrostOwl_Hit_3
+  - first:
+      213: 7808465607567449262
+    second: FrostOwl_Hit_4
+  - first:
+      213: -6678832047109392881
+    second: FrostOwl_Hit_5
+  - first:
+      213: 3847771767913237007
+    second: FrostOwl_Hit_6
+  - first:
+      213: 6544666920943278164
+    second: FrostOwl_Hit_7
+  - first:
+      213: 4776518002540619079
+    second: FrostOwl_Hit_8
+  - first:
+      213: -7354498710148552331
+    second: FrostOwl_Hit_9
+  - first:
+      213: 6818247672209235240
+    second: FrostOwl_Hit_10
+  - first:
+      213: 2419204176909087152
+    second: FrostOwl_Hit_11
+  - first:
+      213: 6265335561912524380
+    second: FrostOwl_Hit_12
+  - first:
+      213: -2560548580477525485
+    second: FrostOwl_Hit_13
+  - first:
+      213: -7306023303981783282
+    second: FrostOwl_Hit_14
+  - first:
+      213: -5550979688051027098
+    second: FrostOwl_Hit_15
+  - first:
+      213: -8934283115323565596
+    second: FrostOwl_Hit_16
+  - first:
+      213: -496262588058809327
+    second: FrostOwl_Hit_17
+  - first:
+      213: 595766370284889584
+    second: FrostOwl_Hit_18
+  - first:
+      213: -3968810260872330074
+    second: FrostOwl_Hit_19
+  - first:
+      213: -1284705464347745518
+    second: FrostOwl_Hit_20
+  - first:
+      213: 4320686097602244013
+    second: FrostOwl_Hit_21
+  - first:
+      213: -5597275609389211532
+    second: FrostOwl_Hit_22
+  - first:
+      213: 2283492587211522403
+    second: FrostOwl_Hit_23
+  - first:
+      213: 8895563305075606598
+    second: FrostOwl_Hit_24
+  - first:
+      213: -456564167920546575
+    second: FrostOwl_Hit_25
+  - first:
+      213: -847127745356976872
+    second: FrostOwl_Hit_26
+  - first:
+      213: 3168859151925613239
+    second: FrostOwl_Hit_27
+  - first:
+      213: 2980053026011774134
+    second: FrostOwl_Hit_28
+  - first:
+      213: 7809560818565012103
+    second: FrostOwl_Hit_29
+  - first:
+      213: 8966417589669628993
+    second: FrostOwl_Hit_30
+  - first:
+      213: 1843876259740488955
+    second: FrostOwl_Hit_31
+  - first:
+      213: 2330805323011392939
+    second: FrostOwl_Hit_32
+  - first:
+      213: 2127131254401458332
+    second: FrostOwl_Hit_33
+  - first:
+      213: 4719184241937642521
+    second: FrostOwl_Hit_34
+  - first:
+      213: -3445736164167422441
+    second: FrostOwl_Hit_35
+  - first:
+      213: -1241276867931907688
+    second: FrostOwl_Hit_36
+  - first:
+      213: -7968433474435595136
+    second: FrostOwl_Hit_37
+  - first:
+      213: 6275039409224575551
+    second: FrostOwl_Hit_38
+  - first:
+      213: 4610370054785251415
+    second: FrostOwl_Hit_39
+  - first:
+      213: 3504583245721538242
+    second: FrostOwl_Hit_40
+  - first:
+      213: -2414066370198688706
+    second: FrostOwl_Hit_41
+  - first:
+      213: 4410975800233080112
+    second: FrostOwl_Hit_42
+  - first:
+      213: -4897819876138046300
+    second: FrostOwl_Hit_43
+  - first:
+      213: 9112668932992629329
+    second: FrostOwl_Hit_44
+  - first:
+      213: 3585796021885258158
+    second: FrostOwl_Hit_45
+  - first:
+      213: 231272373216720977
+    second: FrostOwl_Hit_46
+  - first:
+      213: -2349503975232930646
+    second: FrostOwl_Hit_47
+  - first:
+      213: -2572180221498427883
+    second: FrostOwl_Hit_48
+  - first:
+      213: -2060421351230269040
+    second: FrostOwl_Hit_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrostOwl_Hit_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3422095feb2940af7271d81d239a7
+      internalID: -331191223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c79fd8ffd645842b0824cf264eb7b7
+      internalID: 374999358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b545ce21bb21341a135b28a9a8875b
+      internalID: -49067993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916ff39e6379466498874951cb8f4302
+      internalID: -95722374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf954770d3b7044a65f3a9406e4070
+      internalID: -708983322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3205b6e7e5bb84b884380f43797f16
+      internalID: -1637534856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099cd9080eb5a3647bca4da350ec221f
+      internalID: 1909157662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce12280916fdfbc4a8566fb08776a9ce
+      internalID: -852348241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3350c04419585d4fa063ded7fd6c5e1
+      internalID: -1511789162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e467960818f2a479b73316f9787e09
+      internalID: 1939491923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e197c8fead78c94dbf889ed0c022393
+      internalID: 2120933477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225808b7eaf86114b9af99b734ef8e1e
+      internalID: 181754832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1960426d2ac2d4b8f610722a3fe02a
+      internalID: 1863758652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f3c6a41fb6aa4985b76d56c6d1fbe
+      internalID: -1878230333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71aab825222c194faddf81c06614ec5
+      internalID: -567196846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce1ace33870cf74f95b5d627a2390cf
+      internalID: -1150571909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b922b631e260247923b9f0eb3dc2b5
+      internalID: 1824944345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e9609d51b6b9346b1c5c4771f032eb
+      internalID: -1656033152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407bd241d4096a644813f021236c170c
+      internalID: 578739743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa994f88a9344f4a80c9d2984151c18
+      internalID: 2017516735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da876632573eb524e93075226fb491c1
+      internalID: 843213468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6969d140084ab049a4676847d43ae8f
+      internalID: 1112863573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82da2911cd531b346baf5013752bca9e
+      internalID: 1260030621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fdf42dadd698b4c8abb4c5fdb572c7
+      internalID: 124377571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5461b47ff0da1143b7d080980a98b90
+      internalID: -1678056132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed577905fce246d4aa98db5579580aa8
+      internalID: -1362976188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445f4bee9506ad42b6b918b3134403e
+      internalID: -1864906263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9a2838968d0a947a1fec5828889823
+      internalID: -1128081318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0e5192b87d3e40a5a01e3632e2d18
+      internalID: -82432631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79978b693159a7468dd7217d3134349
+      internalID: 740989641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a042cb82b8daa848837b9bcc57a5ea2
+      internalID: -1751765265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Hit_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f2749c3ec230428395394fddd1f61
+      internalID: 448497595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: dcec07d82977c2d4d9bac1a1360db9aa
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FrostOwl_Hit_E_0: -331191223
+      FrostOwl_Hit_E_1: 374999358
+      FrostOwl_Hit_E_2: -49067993
+      FrostOwl_Hit_E_3: -95722374
+      FrostOwl_Hit_NE_0: -708983322
+      FrostOwl_Hit_NE_1: -1637534856
+      FrostOwl_Hit_NE_2: 1909157662
+      FrostOwl_Hit_NE_3: -852348241
+      FrostOwl_Hit_NW_0: 1863758652
+      FrostOwl_Hit_NW_1: -1878230333
+      FrostOwl_Hit_NW_2: -567196846
+      FrostOwl_Hit_NW_3: -1150571909
+      FrostOwl_Hit_N_0: -1511789162
+      FrostOwl_Hit_N_1: 1939491923
+      FrostOwl_Hit_N_2: 2120933477
+      FrostOwl_Hit_N_3: 181754832
+      FrostOwl_Hit_SE_0: -82432631
+      FrostOwl_Hit_SE_1: 740989641
+      FrostOwl_Hit_SE_2: -1751765265
+      FrostOwl_Hit_SE_3: 448497595
+      FrostOwl_Hit_SW_0: 843213468
+      FrostOwl_Hit_SW_1: 1112863573
+      FrostOwl_Hit_SW_2: 1260030621
+      FrostOwl_Hit_SW_3: 124377571
+      FrostOwl_Hit_S_0: -1678056132
+      FrostOwl_Hit_S_1: -1362976188
+      FrostOwl_Hit_S_2: -1864906263
+      FrostOwl_Hit_S_3: -1128081318
+      FrostOwl_Hit_W_0: 1824944345
+      FrostOwl_Hit_W_1: -1656033152
+      FrostOwl_Hit_W_2: 578739743
+      FrostOwl_Hit_W_3: 2017516735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

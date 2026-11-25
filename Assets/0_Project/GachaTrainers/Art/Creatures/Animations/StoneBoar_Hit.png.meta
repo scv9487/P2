@@ -1,0 +1,1060 @@
+fileFormatVersion: 2
+guid: 89bd22ad5e56a6245bb39ef7622a2a60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2045034622422968815
+    second: StoneBoar_Hit_0
+  - first:
+      213: -5571347459944913841
+    second: StoneBoar_Hit_1
+  - first:
+      213: -360483170862743403
+    second: StoneBoar_Hit_2
+  - first:
+      213: -8732648411558266074
+    second: StoneBoar_Hit_3
+  - first:
+      213: 3730093644155561270
+    second: StoneBoar_Hit_4
+  - first:
+      213: -7479183332063487522
+    second: StoneBoar_Hit_5
+  - first:
+      213: -5300559845375123374
+    second: StoneBoar_Hit_6
+  - first:
+      213: 6568463686706736867
+    second: StoneBoar_Hit_7
+  - first:
+      213: 7533365560784866172
+    second: StoneBoar_Hit_8
+  - first:
+      213: 2952930136772387661
+    second: StoneBoar_Hit_9
+  - first:
+      213: -6775496488783458334
+    second: StoneBoar_Hit_10
+  - first:
+      213: -7761048812540348112
+    second: StoneBoar_Hit_11
+  - first:
+      213: -7667987059194563532
+    second: StoneBoar_Hit_12
+  - first:
+      213: 7298362904589601439
+    second: StoneBoar_Hit_13
+  - first:
+      213: 2250899400589172117
+    second: StoneBoar_Hit_14
+  - first:
+      213: -6993265758368902350
+    second: StoneBoar_Hit_15
+  - first:
+      213: -5246458125595269978
+    second: StoneBoar_Hit_16
+  - first:
+      213: -5146918695265144701
+    second: StoneBoar_Hit_17
+  - first:
+      213: -4142843081629216854
+    second: StoneBoar_Hit_18
+  - first:
+      213: -6805587483927513039
+    second: StoneBoar_Hit_19
+  - first:
+      213: 4717037703879264401
+    second: StoneBoar_Hit_20
+  - first:
+      213: 8262407098834985679
+    second: StoneBoar_Hit_21
+  - first:
+      213: -37848100495011250
+    second: StoneBoar_Hit_22
+  - first:
+      213: -750884663047757813
+    second: StoneBoar_Hit_23
+  - first:
+      213: -8944257726433125389
+    second: StoneBoar_Hit_24
+  - first:
+      213: 1645423514685219315
+    second: StoneBoar_Hit_25
+  - first:
+      213: -6068593357198600554
+    second: StoneBoar_Hit_26
+  - first:
+      213: -7436157685499319901
+    second: StoneBoar_Hit_27
+  - first:
+      213: -7065666516207371723
+    second: StoneBoar_Hit_28
+  - first:
+      213: 2865333696050309440
+    second: StoneBoar_Hit_29
+  - first:
+      213: -6125406123925112108
+    second: StoneBoar_Hit_30
+  - first:
+      213: -1199932186286620067
+    second: StoneBoar_Hit_31
+  - first:
+      213: 6146963640633994233
+    second: StoneBoar_Hit_32
+  - first:
+      213: -800184281812758421
+    second: StoneBoar_Hit_33
+  - first:
+      213: -431899324467394580
+    second: StoneBoar_Hit_34
+  - first:
+      213: 9110009148495340222
+    second: StoneBoar_Hit_35
+  - first:
+      213: -327169689598648777
+    second: StoneBoar_Hit_36
+  - first:
+      213: 6224744725445045491
+    second: StoneBoar_Hit_37
+  - first:
+      213: -7789197643024681021
+    second: StoneBoar_Hit_38
+  - first:
+      213: -1714435281083641054
+    second: StoneBoar_Hit_39
+  - first:
+      213: -8631313878700421069
+    second: StoneBoar_Hit_40
+  - first:
+      213: -614961277874875792
+    second: StoneBoar_Hit_41
+  - first:
+      213: -7314645500698677649
+    second: StoneBoar_Hit_42
+  - first:
+      213: -4335431097946975491
+    second: StoneBoar_Hit_43
+  - first:
+      213: -2869416185650660017
+    second: StoneBoar_Hit_44
+  - first:
+      213: 3234686853602703985
+    second: StoneBoar_Hit_45
+  - first:
+      213: -1822549280852278584
+    second: StoneBoar_Hit_46
+  - first:
+      213: -3456096748097726308
+    second: StoneBoar_Hit_47
+  - first:
+      213: -6352044498511483511
+    second: StoneBoar_Hit_48
+  - first:
+      213: -957864644878789845
+    second: StoneBoar_Hit_49
+  - first:
+      213: -5997276628210294669
+    second: StoneBoar_Hit_50
+  - first:
+      213: 1394802814617343622
+    second: StoneBoar_Hit_51
+  - first:
+      213: 6560969847984992906
+    second: StoneBoar_Hit_52
+  - first:
+      213: -3621526435517083724
+    second: StoneBoar_Hit_53
+  - first:
+      213: 6606111343931767737
+    second: StoneBoar_Hit_54
+  - first:
+      213: -2252178771503529675
+    second: StoneBoar_Hit_55
+  - first:
+      213: 6362894844752594992
+    second: StoneBoar_Hit_56
+  - first:
+      213: 4995540427276881169
+    second: StoneBoar_Hit_57
+  - first:
+      213: 2125702550106014586
+    second: StoneBoar_Hit_58
+  - first:
+      213: -5197186420587521775
+    second: StoneBoar_Hit_59
+  - first:
+      213: 5978865373423438720
+    second: StoneBoar_Hit_60
+  - first:
+      213: 8113517640623642759
+    second: StoneBoar_Hit_61
+  - first:
+      213: 4613303076341244881
+    second: StoneBoar_Hit_62
+  - first:
+      213: -6096605630873227777
+    second: StoneBoar_Hit_63
+  - first:
+      213: 6437713946360243025
+    second: StoneBoar_Hit_64
+  - first:
+      213: -5592547215773639190
+    second: StoneBoar_Hit_65
+  - first:
+      213: -6190200909545400258
+    second: StoneBoar_Hit_66
+  - first:
+      213: -3716569902692027
+    second: StoneBoar_Hit_67
+  - first:
+      213: -8879142931677785225
+    second: StoneBoar_Hit_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StoneBoar_Hit_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aad4003a984eac45a0cde17ff65f013
+      internalID: -2029099342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456b4aafc31eb3841892f51d6924c2d0
+      internalID: -1418518061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746006b7927db6499cdbf9fb9eaf375
+      internalID: -524719822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e28bf372bdc3fb448b5b6272f75b89e
+      internalID: 1150866841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188f70005935b54181bd089d99cf389
+      internalID: 826034369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd6f895cb27b34a9c3bca449b11510
+      internalID: -1964313287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abd7deef27d794cb9bf295cf46f308
+      internalID: -890053655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b39b6d8e8d1f6946af2f613b5792a2e
+      internalID: 1808570528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2963198d0527ae24a8cdc04615bf688a
+      internalID: 2099869257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b8cf8c81ae92849bc39001b7859323
+      internalID: -261882907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1226b75ddb04f047a691869a0790652
+      internalID: -1232898018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6638eb240d02cf44adea3856d2d7ca2
+      internalID: 895225625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ad07fcc937f441aab23329b41ed39
+      internalID: -1328041544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9f5396f7ae674ba31ed34b35ee4ba
+      internalID: 918713383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3dc413847c14438694c0abbad0961
+      internalID: -531845917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29969dd24d36a745a6be958fdc512b1
+      internalID: -14285897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715abb1da47a3cb4e8ff9d180261c24c
+      internalID: 1805702055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8ea009872743e4b8a4ac771d3f90d3
+      internalID: -581767001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7d3cb9f096abe429e55488620ec747
+      internalID: 835119865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47ada8c75abc294bb5548c84b927ab8
+      internalID: 47597738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f88fa02cfa64bf4e90966bb9fd7fe6a
+      internalID: 1740102679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05b56ac4b0346a43827e2c01d97889d
+      internalID: 463866425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85242f9582b6e3648b1aa02c15bb4f46
+      internalID: 1300869081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdf93075cfb6a34dae6195a91fa6585
+      internalID: -1466637873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a7b68583d5ac24b845b8402bfe59cf
+      internalID: 326132879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ee6a58767fae46b76ee6a16d6c1f8
+      internalID: 1918803671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66712995500ec144ace8687ff746a90
+      internalID: 869787757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30eb8c8f81a03042ae8c6564019f7fa
+      internalID: 1479942725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ba94e02e5731f44a00a0e6b90f083d
+      internalID: 1129809195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daed8b2aaa15d6b4b89de61ffcbe96e7
+      internalID: 1466758355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b3fa53d16f0d4194da9d2c0a7b343
+      internalID: 1513684107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneBoar_Hit_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bfc105352d3e745bf08a59178169e8
+      internalID: 583354731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba6abf4e62a448b4ea9dafd6a9be46f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StoneBoar_Hit_E_0: -2029099342
+      StoneBoar_Hit_E_1: -1418518061
+      StoneBoar_Hit_E_2: -524719822
+      StoneBoar_Hit_E_3: 1150866841
+      StoneBoar_Hit_NE_0: 826034369
+      StoneBoar_Hit_NE_1: -1964313287
+      StoneBoar_Hit_NE_2: -890053655
+      StoneBoar_Hit_NE_3: 1808570528
+      StoneBoar_Hit_NW_0: -1328041544
+      StoneBoar_Hit_NW_1: 918713383
+      StoneBoar_Hit_NW_2: -531845917
+      StoneBoar_Hit_NW_3: -14285897
+      StoneBoar_Hit_N_0: 2099869257
+      StoneBoar_Hit_N_1: -261882907
+      StoneBoar_Hit_N_2: -1232898018
+      StoneBoar_Hit_N_3: 895225625
+      StoneBoar_Hit_SE_0: 1129809195
+      StoneBoar_Hit_SE_1: 1466758355
+      StoneBoar_Hit_SE_2: 1513684107
+      StoneBoar_Hit_SE_3: 583354731
+      StoneBoar_Hit_SW_0: 1740102679
+      StoneBoar_Hit_SW_1: 463866425
+      StoneBoar_Hit_SW_2: 1300869081
+      StoneBoar_Hit_SW_3: -1466637873
+      StoneBoar_Hit_S_0: 326132879
+      StoneBoar_Hit_S_1: 1918803671
+      StoneBoar_Hit_S_2: 869787757
+      StoneBoar_Hit_S_3: 1479942725
+      StoneBoar_Hit_W_0: 1805702055
+      StoneBoar_Hit_W_1: -581767001
+      StoneBoar_Hit_W_2: 835119865
+      StoneBoar_Hit_W_3: 47597738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

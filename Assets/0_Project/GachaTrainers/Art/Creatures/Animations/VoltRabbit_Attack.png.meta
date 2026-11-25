@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: cd02f784c95b61a44b8aee555b26fe72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 452095517812681796
+    second: VoltRabbit_Attack_0
+  - first:
+      213: -7648922395635999316
+    second: VoltRabbit_Attack_1
+  - first:
+      213: -296256716170693501
+    second: VoltRabbit_Attack_2
+  - first:
+      213: 5103501283818482776
+    second: VoltRabbit_Attack_3
+  - first:
+      213: 3468584808802231845
+    second: VoltRabbit_Attack_4
+  - first:
+      213: 2990274765538632628
+    second: VoltRabbit_Attack_5
+  - first:
+      213: 6506436992679127953
+    second: VoltRabbit_Attack_6
+  - first:
+      213: 5978448074367589299
+    second: VoltRabbit_Attack_7
+  - first:
+      213: 7500337744679297698
+    second: VoltRabbit_Attack_8
+  - first:
+      213: 1734987108065459860
+    second: VoltRabbit_Attack_9
+  - first:
+      213: 2917262155638741337
+    second: VoltRabbit_Attack_10
+  - first:
+      213: 1706010000596021697
+    second: VoltRabbit_Attack_11
+  - first:
+      213: 6142201077641442848
+    second: VoltRabbit_Attack_12
+  - first:
+      213: -6191982533646626309
+    second: VoltRabbit_Attack_13
+  - first:
+      213: -30100913135072206
+    second: VoltRabbit_Attack_14
+  - first:
+      213: -8368175924032949708
+    second: VoltRabbit_Attack_15
+  - first:
+      213: 6099027558767185756
+    second: VoltRabbit_Attack_16
+  - first:
+      213: 5705456242838103002
+    second: VoltRabbit_Attack_17
+  - first:
+      213: 9046244468592144444
+    second: VoltRabbit_Attack_18
+  - first:
+      213: 6492250094676381377
+    second: VoltRabbit_Attack_19
+  - first:
+      213: -5907649100117943316
+    second: VoltRabbit_Attack_20
+  - first:
+      213: -1198569800206381239
+    second: VoltRabbit_Attack_21
+  - first:
+      213: 5272185629368705260
+    second: VoltRabbit_Attack_22
+  - first:
+      213: -531034658243345222
+    second: VoltRabbit_Attack_23
+  - first:
+      213: 1630598880587997136
+    second: VoltRabbit_Attack_24
+  - first:
+      213: 945619802064028504
+    second: VoltRabbit_Attack_25
+  - first:
+      213: -7501133133982549828
+    second: VoltRabbit_Attack_26
+  - first:
+      213: -6278104059237328363
+    second: VoltRabbit_Attack_27
+  - first:
+      213: -1175950813458533682
+    second: VoltRabbit_Attack_28
+  - first:
+      213: -4175167164014620302
+    second: VoltRabbit_Attack_29
+  - first:
+      213: -4940617065143550133
+    second: VoltRabbit_Attack_30
+  - first:
+      213: 6046832464038383562
+    second: VoltRabbit_Attack_31
+  - first:
+      213: 5089709566604628581
+    second: VoltRabbit_Attack_32
+  - first:
+      213: 5462138535861464378
+    second: VoltRabbit_Attack_33
+  - first:
+      213: -2775192812681072303
+    second: VoltRabbit_Attack_34
+  - first:
+      213: -7138131313400464510
+    second: VoltRabbit_Attack_35
+  - first:
+      213: 1003962981766421313
+    second: VoltRabbit_Attack_36
+  - first:
+      213: 6156244443228439662
+    second: VoltRabbit_Attack_37
+  - first:
+      213: -7208454438501699574
+    second: VoltRabbit_Attack_38
+  - first:
+      213: -5564230429420708669
+    second: VoltRabbit_Attack_39
+  - first:
+      213: -5299750260592935284
+    second: VoltRabbit_Attack_40
+  - first:
+      213: -5424966404248967193
+    second: VoltRabbit_Attack_41
+  - first:
+      213: 351997683724981523
+    second: VoltRabbit_Attack_42
+  - first:
+      213: 6484751695582384853
+    second: VoltRabbit_Attack_43
+  - first:
+      213: 1514210491038640952
+    second: VoltRabbit_Attack_44
+  - first:
+      213: -1905170083435398624
+    second: VoltRabbit_Attack_45
+  - first:
+      213: -3934300632835955943
+    second: VoltRabbit_Attack_46
+  - first:
+      213: 4101497414033785822
+    second: VoltRabbit_Attack_47
+  - first:
+      213: 5699635522191283532
+    second: VoltRabbit_Attack_48
+  - first:
+      213: 116103365487138611
+    second: VoltRabbit_Attack_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff565f363c4644c9212f46712b0b99
+      internalID: -643811510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01022e9aa4e438d4dbed91c06bcff4cf
+      internalID: 820529813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5030ff47a205478dac25b731e858a
+      internalID: 612635822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d47b279a1f9bd459eedb5a27f53083
+      internalID: 1541521753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe96ed71b3e382c4f8ae1758dee4762f
+      internalID: 1704970662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fe6ccff2adec643b7cd2401d0ebd04
+      internalID: -1153915715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d30abd87a10afe4ba4839c58ad8450f
+      internalID: 920781618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba776e9b0d767b4699b5550e9abe50f
+      internalID: -327601087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6eea70cbab004f47b5fa2b093e75134
+      internalID: 1551930462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af8dd9cb5e2bf5429205116ecf8c12c
+      internalID: -737579346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628af59c9e6e09946a9b71e40a5afe93
+      internalID: 1573837177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a09c9be67b2184b975fc6977314278
+      internalID: 802582000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f986065a10ecc54cb85dcc8cf4f065d
+      internalID: 936386065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55739a2fba86fa548816ef17765a799c
+      internalID: 98256661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9b82c22d0522948a64af2bd7b6ed7b
+      internalID: -83908799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefadab6e5deb8a418029e3bf8cc54b8
+      internalID: 742230384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e36aebf4c061194ba83047412d428c0
+      internalID: 118311018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ccb2e8667cc12449c022a48e8b1386
+      internalID: -553871286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52709a1d31303e541b14de628bbba7eb
+      internalID: 1848486663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7366fbae90391e9449db46bf472896b8
+      internalID: 956845058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4b08e77324dae49970e70e8c16e909
+      internalID: -220455579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f6d1734e362494b90f7d2a92fc69ee
+      internalID: 902290960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d8b0f0cc0dea6448375c41731ef79f
+      internalID: -376955572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107992e3ead8b8a4593c28fa15592719
+      internalID: 58159355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4580ae45a6c50a4980cca5b213d1c25
+      internalID: -1979644503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05db4afe04997458d5e5183048912c
+      internalID: 505744781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f879b60e1fb9cf42817d438cfb58fbf
+      internalID: 1423846053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b77f8759de72a41b77f985136bd43b
+      internalID: -2124074328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2252a9acff5b51b40b10ecf991129d11
+      internalID: 1003992420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b49d49cc1790e4a847352160dfbfe3
+      internalID: 506019887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9b5c798e27ee7418bb334eaec69fc0
+      internalID: 2115169872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Attack_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207bdb01a5bcebd4d8166d586afd5175
+      internalID: 848159055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2cb00d86bfb31214b85f2db792d7a9cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VoltRabbit_Attack_E_0: -643811510
+      VoltRabbit_Attack_E_1: 820529813
+      VoltRabbit_Attack_E_2: 612635822
+      VoltRabbit_Attack_E_3: 1541521753
+      VoltRabbit_Attack_NE_0: 1704970662
+      VoltRabbit_Attack_NE_1: -1153915715
+      VoltRabbit_Attack_NE_2: 920781618
+      VoltRabbit_Attack_NE_3: -327601087
+      VoltRabbit_Attack_NW_0: 936386065
+      VoltRabbit_Attack_NW_1: 98256661
+      VoltRabbit_Attack_NW_2: -83908799
+      VoltRabbit_Attack_NW_3: 742230384
+      VoltRabbit_Attack_N_0: 1551930462
+      VoltRabbit_Attack_N_1: -737579346
+      VoltRabbit_Attack_N_2: 1573837177
+      VoltRabbit_Attack_N_3: 802582000
+      VoltRabbit_Attack_SE_0: 1003992420
+      VoltRabbit_Attack_SE_1: 506019887
+      VoltRabbit_Attack_SE_2: 2115169872
+      VoltRabbit_Attack_SE_3: 848159055
+      VoltRabbit_Attack_SW_0: -220455579
+      VoltRabbit_Attack_SW_1: 902290960
+      VoltRabbit_Attack_SW_2: -376955572
+      VoltRabbit_Attack_SW_3: 58159355
+      VoltRabbit_Attack_S_0: -1979644503
+      VoltRabbit_Attack_S_1: 505744781
+      VoltRabbit_Attack_S_2: 1423846053
+      VoltRabbit_Attack_S_3: -2124074328
+      VoltRabbit_Attack_W_0: 118311018
+      VoltRabbit_Attack_W_1: -553871286
+      VoltRabbit_Attack_W_2: 1848486663
+      VoltRabbit_Attack_W_3: 956845058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

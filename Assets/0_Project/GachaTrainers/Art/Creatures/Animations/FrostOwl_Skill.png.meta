@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: 782c436e075ed0a40827cb31ab2ec114
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2889618385064705892
+    second: FrostOwl_Skill_0
+  - first:
+      213: 2864211172484818986
+    second: FrostOwl_Skill_1
+  - first:
+      213: 6844263903449562214
+    second: FrostOwl_Skill_2
+  - first:
+      213: -777810165098711363
+    second: FrostOwl_Skill_3
+  - first:
+      213: -1513714175386341467
+    second: FrostOwl_Skill_4
+  - first:
+      213: 3999353383390226
+    second: FrostOwl_Skill_5
+  - first:
+      213: 1296597876004146641
+    second: FrostOwl_Skill_6
+  - first:
+      213: 5234657845723042080
+    second: FrostOwl_Skill_7
+  - first:
+      213: 5593915144376804102
+    second: FrostOwl_Skill_8
+  - first:
+      213: 2468167453173081384
+    second: FrostOwl_Skill_9
+  - first:
+      213: 6982135938031343262
+    second: FrostOwl_Skill_10
+  - first:
+      213: 6765045349609594952
+    second: FrostOwl_Skill_11
+  - first:
+      213: 8634861887763746199
+    second: FrostOwl_Skill_12
+  - first:
+      213: 8600226231352924898
+    second: FrostOwl_Skill_13
+  - first:
+      213: -5199068077159244111
+    second: FrostOwl_Skill_14
+  - first:
+      213: 9150359846247994074
+    second: FrostOwl_Skill_15
+  - first:
+      213: -6189662253471560679
+    second: FrostOwl_Skill_16
+  - first:
+      213: -6285047440200572883
+    second: FrostOwl_Skill_17
+  - first:
+      213: -5839850924253522088
+    second: FrostOwl_Skill_18
+  - first:
+      213: -2785330139439516837
+    second: FrostOwl_Skill_19
+  - first:
+      213: -5506955305987133561
+    second: FrostOwl_Skill_20
+  - first:
+      213: -1742415967132453569
+    second: FrostOwl_Skill_21
+  - first:
+      213: 3358018577085104641
+    second: FrostOwl_Skill_22
+  - first:
+      213: 264720803502014026
+    second: FrostOwl_Skill_23
+  - first:
+      213: -6543719014484220004
+    second: FrostOwl_Skill_24
+  - first:
+      213: -1277719920360149847
+    second: FrostOwl_Skill_25
+  - first:
+      213: -1715069324746556370
+    second: FrostOwl_Skill_26
+  - first:
+      213: 8921650158858228289
+    second: FrostOwl_Skill_27
+  - first:
+      213: 6508558298574069922
+    second: FrostOwl_Skill_28
+  - first:
+      213: 5830675275097012250
+    second: FrostOwl_Skill_29
+  - first:
+      213: 1567498908340899839
+    second: FrostOwl_Skill_30
+  - first:
+      213: 6305338553672881154
+    second: FrostOwl_Skill_31
+  - first:
+      213: -864380272658491432
+    second: FrostOwl_Skill_32
+  - first:
+      213: -213145299644221025
+    second: FrostOwl_Skill_33
+  - first:
+      213: 3578673199943507568
+    second: FrostOwl_Skill_34
+  - first:
+      213: 8395864881230752160
+    second: FrostOwl_Skill_35
+  - first:
+      213: 1566600259447680504
+    second: FrostOwl_Skill_36
+  - first:
+      213: 4754470168331260889
+    second: FrostOwl_Skill_37
+  - first:
+      213: 2779282623223361283
+    second: FrostOwl_Skill_38
+  - first:
+      213: -744096656362684551
+    second: FrostOwl_Skill_39
+  - first:
+      213: -1343326714258768348
+    second: FrostOwl_Skill_40
+  - first:
+      213: 8791699059420936571
+    second: FrostOwl_Skill_41
+  - first:
+      213: 5401844304394802920
+    second: FrostOwl_Skill_42
+  - first:
+      213: 7613291427065208260
+    second: FrostOwl_Skill_43
+  - first:
+      213: 6549397553436491863
+    second: FrostOwl_Skill_44
+  - first:
+      213: -7144137164542724579
+    second: FrostOwl_Skill_45
+  - first:
+      213: 5905435179126773271
+    second: FrostOwl_Skill_46
+  - first:
+      213: -5100110347323633008
+    second: FrostOwl_Skill_47
+  - first:
+      213: -1295149694540803093
+    second: FrostOwl_Skill_48
+  - first:
+      213: 3787113116487737693
+    second: FrostOwl_Skill_49
+  - first:
+      213: 6059790686665864542
+    second: FrostOwl_Skill_50
+  - first:
+      213: 1718486342215213884
+    second: FrostOwl_Skill_51
+  - first:
+      213: 7658945030061669860
+    second: FrostOwl_Skill_52
+  - first:
+      213: 7469680801076681184
+    second: FrostOwl_Skill_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrostOwl_Skill_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e103c7e7244ef44c976f118c05febe7
+      internalID: 368670445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ace5c4206aad48bd6385b26f13d24
+      internalID: -1421289735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be7f3bb72f60c14b8416a448d0c4aad
+      internalID: -856874157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb66eb33dc612b4ca724415467108e1
+      internalID: 224196046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5901c904a0abf640b99ec9b31a486fc
+      internalID: -1230280026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edadeffa1495b54ba25eb27b7a486f4
+      internalID: 1911692022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de62b96b12cd2142856999ffc2a31c5
+      internalID: -308800919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a7b6adf1e288140ac54b3e2abfd787
+      internalID: -1914590295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5573e4df19bf5d94398a5d356bc96d7c
+      internalID: 1909575553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bda4a922cc45e479ab8038475a15a8
+      internalID: -1389192161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295f457aef9bbc49913a2ff30475097
+      internalID: -2040038510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dd7b1458552634190b629b7c534266
+      internalID: 1433613830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d9d9c8279bf54b8e1017e1a5c459d
+      internalID: 359682304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fac094cc6276740957a9980bf129bc
+      internalID: -29517025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a47edaf99c599d4c80ac27b7713759f
+      internalID: 482902003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612ca8b11738a4d478033070c5637e52
+      internalID: 700798728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fbdaf185c222c4eadc2ed1adeb3f21
+      internalID: -465492173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e50dcc447bb02d44ab52f15d80af028
+      internalID: -1295451040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded463b6ab977849be063538c58cf41
+      internalID: 1205518157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb1bd6fce493b4418c975a2470de5bb
+      internalID: 936229913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e87939fcecfec4e86988d4d09ccffc
+      internalID: 190196544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1432065a269914e91f8bd830a0f2b5
+      internalID: -1777861384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91c6f4e1367354f93250cd8baa33a7
+      internalID: 1063773967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77d59e8adf51ab4e84d1d3725e0f0d6
+      internalID: -331459364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0347aac31e931d94f8e2f4abe13bbdbd
+      internalID: -525610188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6114f2ae3ccacd74597a1c05c4abd91e
+      internalID: -75912080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d5d9ec06b393642b37a28ee013877b
+      internalID: 525691043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852430a26a1fa942966849296257b47
+      internalID: -1710662849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7aead808378f746a7373ec540a1dee
+      internalID: 505348594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aafcc09cfb19d478aaea764c63b8cd
+      internalID: 1337861326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886fffa584d1c30488d59480407ca6ef
+      internalID: 604821388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostOwl_Skill_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1fff726b3ee224ebec59f80edcc5f9
+      internalID: -1365180114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6e99d789ff157924790d2148a3e1dce3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FrostOwl_Skill_E_0: 368670445
+      FrostOwl_Skill_E_1: -1421289735
+      FrostOwl_Skill_E_2: -856874157
+      FrostOwl_Skill_E_3: 224196046
+      FrostOwl_Skill_NE_0: -1230280026
+      FrostOwl_Skill_NE_1: 1911692022
+      FrostOwl_Skill_NE_2: -308800919
+      FrostOwl_Skill_NE_3: -1914590295
+      FrostOwl_Skill_NW_0: 359682304
+      FrostOwl_Skill_NW_1: -29517025
+      FrostOwl_Skill_NW_2: 482902003
+      FrostOwl_Skill_NW_3: 700798728
+      FrostOwl_Skill_N_0: 1909575553
+      FrostOwl_Skill_N_1: -1389192161
+      FrostOwl_Skill_N_2: -2040038510
+      FrostOwl_Skill_N_3: 1433613830
+      FrostOwl_Skill_SE_0: 505348594
+      FrostOwl_Skill_SE_1: 1337861326
+      FrostOwl_Skill_SE_2: 604821388
+      FrostOwl_Skill_SE_3: -1365180114
+      FrostOwl_Skill_SW_0: 190196544
+      FrostOwl_Skill_SW_1: -1777861384
+      FrostOwl_Skill_SW_2: 1063773967
+      FrostOwl_Skill_SW_3: -331459364
+      FrostOwl_Skill_S_0: -525610188
+      FrostOwl_Skill_S_1: -75912080
+      FrostOwl_Skill_S_2: 525691043
+      FrostOwl_Skill_S_3: -1710662849
+      FrostOwl_Skill_W_0: -465492173
+      FrostOwl_Skill_W_1: -1295451040
+      FrostOwl_Skill_W_2: 1205518157
+      FrostOwl_Skill_W_3: 936229913
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

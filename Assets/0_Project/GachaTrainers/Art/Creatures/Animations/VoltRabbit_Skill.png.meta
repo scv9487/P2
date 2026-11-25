@@ -1,0 +1,1075 @@
+fileFormatVersion: 2
+guid: fc2190d0063f07c4889a5c863fb0b274
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2130567723556995659
+    second: VoltRabbit_Skill_0
+  - first:
+      213: 2095993342802601662
+    second: VoltRabbit_Skill_1
+  - first:
+      213: -3606805851889906142
+    second: VoltRabbit_Skill_2
+  - first:
+      213: -2908006106609734083
+    second: VoltRabbit_Skill_3
+  - first:
+      213: -1793982735935897699
+    second: VoltRabbit_Skill_4
+  - first:
+      213: 7157491259452144156
+    second: VoltRabbit_Skill_5
+  - first:
+      213: 5050335780541200948
+    second: VoltRabbit_Skill_6
+  - first:
+      213: -7240718623913700924
+    second: VoltRabbit_Skill_7
+  - first:
+      213: -4596976222344318939
+    second: VoltRabbit_Skill_8
+  - first:
+      213: -8698796088841966541
+    second: VoltRabbit_Skill_9
+  - first:
+      213: 3846215608182845152
+    second: VoltRabbit_Skill_10
+  - first:
+      213: 2187032769910662412
+    second: VoltRabbit_Skill_11
+  - first:
+      213: 3368685058379607336
+    second: VoltRabbit_Skill_12
+  - first:
+      213: -7906726981402460661
+    second: VoltRabbit_Skill_13
+  - first:
+      213: -3495555755734643081
+    second: VoltRabbit_Skill_14
+  - first:
+      213: -4564844803108050602
+    second: VoltRabbit_Skill_15
+  - first:
+      213: 502824551474382615
+    second: VoltRabbit_Skill_16
+  - first:
+      213: 1703304067297612385
+    second: VoltRabbit_Skill_17
+  - first:
+      213: 306394681789975991
+    second: VoltRabbit_Skill_18
+  - first:
+      213: 8394647273759373478
+    second: VoltRabbit_Skill_19
+  - first:
+      213: 8106976277725182162
+    second: VoltRabbit_Skill_20
+  - first:
+      213: 7257330430558335179
+    second: VoltRabbit_Skill_21
+  - first:
+      213: -8159596908607541478
+    second: VoltRabbit_Skill_22
+  - first:
+      213: 6976759836554229757
+    second: VoltRabbit_Skill_23
+  - first:
+      213: 933339025445409971
+    second: VoltRabbit_Skill_24
+  - first:
+      213: 6704658603373468376
+    second: VoltRabbit_Skill_25
+  - first:
+      213: 4854536811816739995
+    second: VoltRabbit_Skill_26
+  - first:
+      213: -8819180560637013970
+    second: VoltRabbit_Skill_27
+  - first:
+      213: -6639588473037435112
+    second: VoltRabbit_Skill_28
+  - first:
+      213: 3124868391098697674
+    second: VoltRabbit_Skill_29
+  - first:
+      213: -7145870916965869772
+    second: VoltRabbit_Skill_30
+  - first:
+      213: 5934914441335525598
+    second: VoltRabbit_Skill_31
+  - first:
+      213: 829611816818582958
+    second: VoltRabbit_Skill_32
+  - first:
+      213: 6512129655160844936
+    second: VoltRabbit_Skill_33
+  - first:
+      213: 3700861041443474328
+    second: VoltRabbit_Skill_34
+  - first:
+      213: 8002523897170447186
+    second: VoltRabbit_Skill_35
+  - first:
+      213: 4363814973085899219
+    second: VoltRabbit_Skill_36
+  - first:
+      213: 2535728462495547403
+    second: VoltRabbit_Skill_37
+  - first:
+      213: 6964896338100356777
+    second: VoltRabbit_Skill_38
+  - first:
+      213: 7308961311926847034
+    second: VoltRabbit_Skill_39
+  - first:
+      213: 7936959596643399136
+    second: VoltRabbit_Skill_40
+  - first:
+      213: -2908284516573336286
+    second: VoltRabbit_Skill_41
+  - first:
+      213: 5392447394503423052
+    second: VoltRabbit_Skill_42
+  - first:
+      213: -2516614357779820552
+    second: VoltRabbit_Skill_43
+  - first:
+      213: 2083955452550880413
+    second: VoltRabbit_Skill_44
+  - first:
+      213: 2554958856100148411
+    second: VoltRabbit_Skill_45
+  - first:
+      213: 7297999022413885333
+    second: VoltRabbit_Skill_46
+  - first:
+      213: -5161820718508227585
+    second: VoltRabbit_Skill_47
+  - first:
+      213: -5086185388137409752
+    second: VoltRabbit_Skill_48
+  - first:
+      213: -2288780005577218683
+    second: VoltRabbit_Skill_49
+  - first:
+      213: 8016965633752466514
+    second: VoltRabbit_Skill_50
+  - first:
+      213: -8657592775587511239
+    second: VoltRabbit_Skill_51
+  - first:
+      213: 805475168028641956
+    second: VoltRabbit_Skill_52
+  - first:
+      213: -6230199173040373199
+    second: VoltRabbit_Skill_53
+  - first:
+      213: 5553644568016006863
+    second: VoltRabbit_Skill_54
+  - first:
+      213: 5900647782118257540
+    second: VoltRabbit_Skill_55
+  - first:
+      213: 3723420080789279545
+    second: VoltRabbit_Skill_56
+  - first:
+      213: 1325047736101462908
+    second: VoltRabbit_Skill_57
+  - first:
+      213: 986704672647626915
+    second: VoltRabbit_Skill_58
+  - first:
+      213: -6888113938313314751
+    second: VoltRabbit_Skill_59
+  - first:
+      213: 4876716694517437742
+    second: VoltRabbit_Skill_60
+  - first:
+      213: -3675033249075203852
+    second: VoltRabbit_Skill_61
+  - first:
+      213: 3330487792314058710
+    second: VoltRabbit_Skill_62
+  - first:
+      213: -4267301970080487961
+    second: VoltRabbit_Skill_63
+  - first:
+      213: 3226514921714675922
+    second: VoltRabbit_Skill_64
+  - first:
+      213: -282056445702225342
+    second: VoltRabbit_Skill_65
+  - first:
+      213: 7885831775336654709
+    second: VoltRabbit_Skill_66
+  - first:
+      213: -3870855242135682797
+    second: VoltRabbit_Skill_67
+  - first:
+      213: -3020416171050923866
+    second: VoltRabbit_Skill_68
+  - first:
+      213: -1716500344134849977
+    second: VoltRabbit_Skill_69
+  - first:
+      213: 7599589616726254421
+    second: VoltRabbit_Skill_70
+  - first:
+      213: -3130141668832068302
+    second: VoltRabbit_Skill_71
+  - first:
+      213: -4048974168041494488
+    second: VoltRabbit_Skill_72
+  - first:
+      213: 3209629728052216981
+    second: VoltRabbit_Skill_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd539b5aff732324fafe01be92ca0d4f
+      internalID: 770467332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_E_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4bab98a004b2c4ba6d1c7310031ec1
+      internalID: 70437947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_E_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea05389447eca49a20152d60271248
+      internalID: 1587577590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_E_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a8cc8feff1f7144b7d95e3ce0dc4cd
+      internalID: -1060265151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f709d661dc444c95b2250f6fddcb5
+      internalID: -1702623170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd472a8c8c49cd44fb35c59e5aadc720
+      internalID: 937868554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ef32feb96a474abf8b067cf7e7fe1
+      internalID: -645583587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5306610351c2d4ea4469cad9e6cf5b
+      internalID: 1405743664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_N_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f152dfa1319304d8df155a803ff9cd
+      internalID: 49835272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_N_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a666fb22411925f44b1b26c6e274634c
+      internalID: 1140582892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_N_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2449e56880ec49bcaa6eaba333102
+      internalID: 531401757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_N_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedfa91a2805afb419670fbd64f14f9c
+      internalID: -1930773378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b66313fc80406542a0fb5879b77c917
+      internalID: 303498651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cced6711f62c6b248aed43245b964d4b
+      internalID: -1454986106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20771440f73a2e644bf5d356af622324
+      internalID: 961819755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_NW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37f9327a0fe0594a90000bdde83c352
+      internalID: -1970429565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb66caeeb93ffd4a96c5a8f64d5b322
+      internalID: 1187033977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_W_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a907a1c127d543913010b72acb22f
+      internalID: 813010478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_W_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307649d297f7f9d46931002afc18d158
+      internalID: -1564422049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_W_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48713acb59cfda429edc03ee9bbb450
+      internalID: 504651174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SW_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfe016414c65cb45821915938caa5ef
+      internalID: -1962235658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SW_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e71831ec124774c973ad2216eafdb3
+      internalID: 2143135373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SW_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6b0d6cec167fe4691973c2ceb063eb
+      internalID: -1074850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SW_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7718d1c0e69be4a83bd4141aaa1ff3
+      internalID: -1736701474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_S_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516408dc348e70489c69a09fc8f86dd
+      internalID: -1445520540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_S_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756a1a8bf3b91547b14fa1956cd44e9
+      internalID: -2023409588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_S_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2f3f5b8d2d38448060b1f1342d2f9
+      internalID: -59176387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_S_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8793c43ba7aa7b840b0cc5edacedc3f2
+      internalID: 726303752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfe13fb2b29101469a826c968bf1e58
+      internalID: 1916216002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5719c367e4929ee4980f31f554eba0b2
+      internalID: 770316215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b41d85d870ec4691d36a020372e3d
+      internalID: 1206342490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoltRabbit_Skill_SE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e6d35382f30b9428e2e56db98189f0
+      internalID: -1764361101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3e8fcb7d69a1a8d42a4a3371325e52bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      VoltRabbit_Skill_E_0: 770467332
+      VoltRabbit_Skill_E_1: 70437947
+      VoltRabbit_Skill_E_2: 1587577590
+      VoltRabbit_Skill_E_3: -1060265151
+      VoltRabbit_Skill_NE_0: -1702623170
+      VoltRabbit_Skill_NE_1: 937868554
+      VoltRabbit_Skill_NE_2: -645583587
+      VoltRabbit_Skill_NE_3: 1405743664
+      VoltRabbit_Skill_NW_0: 303498651
+      VoltRabbit_Skill_NW_1: -1454986106
+      VoltRabbit_Skill_NW_2: 961819755
+      VoltRabbit_Skill_NW_3: -1970429565
+      VoltRabbit_Skill_N_0: 49835272
+      VoltRabbit_Skill_N_1: 1140582892
+      VoltRabbit_Skill_N_2: 531401757
+      VoltRabbit_Skill_N_3: -1930773378
+      VoltRabbit_Skill_SE_0: 1916216002
+      VoltRabbit_Skill_SE_1: 770316215
+      VoltRabbit_Skill_SE_2: 1206342490
+      VoltRabbit_Skill_SE_3: -1764361101
+      VoltRabbit_Skill_SW_0: -1962235658
+      VoltRabbit_Skill_SW_1: 2143135373
+      VoltRabbit_Skill_SW_2: -1074850455
+      VoltRabbit_Skill_SW_3: -1736701474
+      VoltRabbit_Skill_S_0: -1445520540
+      VoltRabbit_Skill_S_1: -2023409588
+      VoltRabbit_Skill_S_2: -59176387
+      VoltRabbit_Skill_S_3: 726303752
+      VoltRabbit_Skill_W_0: 1187033977
+      VoltRabbit_Skill_W_1: 813010478
+      VoltRabbit_Skill_W_2: -1564422049
+      VoltRabbit_Skill_W_3: 504651174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
